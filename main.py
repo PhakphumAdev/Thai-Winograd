@@ -1,4 +1,4 @@
-from datasets import dataset
+from datasets import load_dataset
 import sys
 from evaluation.eval import WinogradEvaluator
 winograd_th = load_dataset("pakphum/winograd_th")
