@@ -1,0 +1,1427 @@
+[
+    {
+        "question_number": 0,
+        "gold_label": "The city councilmen",
+        "model_response": "The city councilmen"
+    },
+    {
+        "question_number": 1,
+        "gold_label": "The demonstrators",
+        "model_response": "The demonstrators"
+    },
+    {
+        "question_number": 2,
+        "gold_label": "the trophy",
+        "model_response": "the trophy"
+    },
+    {
+        "question_number": 3,
+        "gold_label": "the suitcase",
+        "model_response": "the trophy"
+    },
+    {
+        "question_number": 4,
+        "gold_label": "Joan",
+        "model_response": "Joan"
+    },
+    {
+        "question_number": 5,
+        "gold_label": "Susan",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 6,
+        "gold_label": "Paul",
+        "model_response": "George"
+    },
+    {
+        "question_number": 7,
+        "gold_label": "George",
+        "model_response": "George"
+    },
+    {
+        "question_number": 8,
+        "gold_label": "the lawyer",
+        "model_response": "the witness"
+    },
+    {
+        "question_number": 9,
+        "gold_label": "the witness",
+        "model_response": "the witness"
+    },
+    {
+        "question_number": 10,
+        "gold_label": "the delivery truck",
+        "model_response": "the delivery truck"
+    },
+    {
+        "question_number": 11,
+        "gold_label": "the school bus",
+        "model_response": "the school bus"
+    },
+    {
+        "question_number": 12,
+        "gold_label": "Frank",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 13,
+        "gold_label": "Bill",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 14,
+        "gold_label": "The man",
+        "model_response": "The man"
+    },
+    {
+        "question_number": 15,
+        "gold_label": "The son",
+        "model_response": "The son"
+    },
+    {
+        "question_number": 16,
+        "gold_label": "The large ball",
+        "model_response": "The large ball"
+    },
+    {
+        "question_number": 17,
+        "gold_label": "The table",
+        "model_response": "The table"
+    },
+    {
+        "question_number": 18,
+        "gold_label": "John",
+        "model_response": "Billy"
+    },
+    {
+        "question_number": 19,
+        "gold_label": "Billy",
+        "model_response": "Billy"
+    },
+    {
+        "question_number": 20,
+        "gold_label": "Tom",
+        "model_response": "Tom"
+    },
+    {
+        "question_number": 21,
+        "gold_label": "Ray",
+        "model_response": "Tom"
+    },
+    {
+        "question_number": 22,
+        "gold_label": "Sue",
+        "model_response": "Sue"
+    },
+    {
+        "question_number": 23,
+        "gold_label": "Sally",
+        "model_response": "Sally"
+    },
+    {
+        "question_number": 24,
+        "gold_label": "The sculpture",
+        "model_response": "The sculpture"
+    },
+    {
+        "question_number": 25,
+        "gold_label": "The shelf",
+        "model_response": "The sculpture"
+    },
+    {
+        "question_number": 26,
+        "gold_label": "Sam's drawing",
+        "model_response": "Sam's drawing"
+    },
+    {
+        "question_number": 27,
+        "gold_label": "Tina's drawing",
+        "model_response": "Sam's drawing"
+    },
+    {
+        "question_number": 28,
+        "gold_label": "Anna",
+        "model_response": "Anna"
+    },
+    {
+        "question_number": 29,
+        "gold_label": "Lucy",
+        "model_response": "Lucy"
+    },
+    {
+        "question_number": 30,
+        "gold_label": "The firemen",
+        "model_response": "The firemen"
+    },
+    {
+        "question_number": 31,
+        "gold_label": "The police",
+        "model_response": "The police"
+    },
+    {
+        "question_number": 32,
+        "gold_label": "Frank",
+        "model_response": "Tom"
+    },
+    {
+        "question_number": 33,
+        "gold_label": "Tom",
+        "model_response": "Tom"
+    },
+    {
+        "question_number": 34,
+        "gold_label": "Jim",
+        "model_response": "Kevin"
+    },
+    {
+        "question_number": 35,
+        "gold_label": "Kevin",
+        "model_response": "Kevin"
+    },
+    {
+        "question_number": 36,
+        "gold_label": "The sack of potatoes",
+        "model_response": "The sack of potatoes"
+    },
+    {
+        "question_number": 37,
+        "gold_label": "The bag of flour",
+        "model_response": "The sack of potatoes"
+    },
+    {
+        "question_number": 38,
+        "gold_label": "Pete",
+        "model_response": "Martin"
+    },
+    {
+        "question_number": 39,
+        "gold_label": "Martin",
+        "model_response": "Martin"
+    },
+    {
+        "question_number": 40,
+        "gold_label": "The older students",
+        "model_response": "The older students"
+    },
+    {
+        "question_number": 41,
+        "gold_label": "The younger students",
+        "model_response": "The younger students"
+    },
+    {
+        "question_number": 42,
+        "gold_label": "the bottle",
+        "model_response": "the bottle"
+    },
+    {
+        "question_number": 43,
+        "gold_label": "the cup",
+        "model_response": "the cup"
+    },
+    {
+        "question_number": 44,
+        "gold_label": "Susan",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 45,
+        "gold_label": "Ann",
+        "model_response": "Ann"
+    },
+    {
+        "question_number": 46,
+        "gold_label": "Sid",
+        "model_response": "Mark"
+    },
+    {
+        "question_number": 47,
+        "gold_label": "Mark",
+        "model_response": "Mark"
+    },
+    {
+        "question_number": 48,
+        "gold_label": "Susan",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 49,
+        "gold_label": "Ann",
+        "model_response": "Ann"
+    },
+    {
+        "question_number": 50,
+        "gold_label": "Joe",
+        "model_response": "Joe's uncle"
+    },
+    {
+        "question_number": 51,
+        "gold_label": "Joe's uncle",
+        "model_response": "Joe's uncle"
+    },
+    {
+        "question_number": 52,
+        "gold_label": "The painting",
+        "model_response": "The oak tree"
+    },
+    {
+        "question_number": 53,
+        "gold_label": "The oak tree",
+        "model_response": "The oak tree"
+    },
+    {
+        "question_number": 54,
+        "gold_label": "The gap",
+        "model_response": "The gap"
+    },
+    {
+        "question_number": 55,
+        "gold_label": "The wall",
+        "model_response": "The wall"
+    },
+    {
+        "question_number": 56,
+        "gold_label": "The drain",
+        "model_response": "The drain"
+    },
+    {
+        "question_number": 57,
+        "gold_label": "The hair",
+        "model_response": "The hair"
+    },
+    {
+        "question_number": 58,
+        "gold_label": "The meeting",
+        "model_response": "The meeting"
+    },
+    {
+        "question_number": 59,
+        "gold_label": "The train",
+        "model_response": "The train"
+    },
+    {
+        "question_number": 60,
+        "gold_label": "The pillar",
+        "model_response": "The pillar"
+    },
+    {
+        "question_number": 61,
+        "gold_label": "The stage",
+        "model_response": "The pillar"
+    },
+    {
+        "question_number": 62,
+        "gold_label": "The announcement",
+        "model_response": "The announcement"
+    },
+    {
+        "question_number": 63,
+        "gold_label": "The subway",
+        "model_response": "The subway"
+    },
+    {
+        "question_number": 64,
+        "gold_label": "The concert",
+        "model_response": "The rain"
+    },
+    {
+        "question_number": 65,
+        "gold_label": "The rain",
+        "model_response": "The rain"
+    },
+    {
+        "question_number": 66,
+        "gold_label": "The rag",
+        "model_response": "The rag"
+    },
+    {
+        "question_number": 67,
+        "gold_label": "The knife",
+        "model_response": "The knife"
+    },
+    {
+        "question_number": 68,
+        "gold_label": "Ann",
+        "model_response": "Ann"
+    },
+    {
+        "question_number": 69,
+        "gold_label": "Mary",
+        "model_response": "Mary"
+    },
+    {
+        "question_number": 70,
+        "gold_label": "The water bottle",
+        "model_response": "The water bottle"
+    },
+    {
+        "question_number": 71,
+        "gold_label": "The backpack",
+        "model_response": "The backpack"
+    },
+    {
+        "question_number": 72,
+        "gold_label": "The pot",
+        "model_response": "The pot"
+    },
+    {
+        "question_number": 73,
+        "gold_label": "The shelf",
+        "model_response": "The shelf"
+    },
+    {
+        "question_number": 74,
+        "gold_label": "The map",
+        "model_response": "The map"
+    },
+    {
+        "question_number": 75,
+        "gold_label": "The building",
+        "model_response": "The building"
+    },
+    {
+        "question_number": 76,
+        "gold_label": "Bob",
+        "model_response": "Bob"
+    },
+    {
+        "question_number": 77,
+        "gold_label": "Charlie",
+        "model_response": "Charlie"
+    },
+    {
+        "question_number": 78,
+        "gold_label": "Bob",
+        "model_response": "Bob"
+    },
+    {
+        "question_number": 79,
+        "gold_label": "Charlie",
+        "model_response": "Charlie"
+    },
+    {
+        "question_number": 80,
+        "gold_label": "Bob",
+        "model_response": "Adam"
+    },
+    {
+        "question_number": 81,
+        "gold_label": "Adam",
+        "model_response": "Adam"
+    },
+    {
+        "question_number": 82,
+        "gold_label": "Adam",
+        "model_response": "Bob"
+    },
+    {
+        "question_number": 83,
+        "gold_label": "Bob",
+        "model_response": "Bob"
+    },
+    {
+        "question_number": 84,
+        "gold_label": "The con artist",
+        "model_response": "The con artist"
+    },
+    {
+        "question_number": 85,
+        "gold_label": "Sam",
+        "model_response": "The con artist"
+    },
+    {
+        "question_number": 86,
+        "gold_label": "The dog",
+        "model_response": "The dog"
+    },
+    {
+        "question_number": 87,
+        "gold_label": "The spot under the tree",
+        "model_response": "The spot under the tree"
+    },
+    {
+        "question_number": 88,
+        "gold_label": "The cat",
+        "model_response": "The cat"
+    },
+    {
+        "question_number": 89,
+        "gold_label": "The mouse",
+        "model_response": "The mouse"
+    },
+    {
+        "question_number": 90,
+        "gold_label": "Anne",
+        "model_response": "Anne"
+    },
+    {
+        "question_number": 91,
+        "gold_label": "Anne's daughter",
+        "model_response": "Anne's daughter"
+    },
+    {
+        "question_number": 92,
+        "gold_label": "Alice",
+        "model_response": "Alice"
+    },
+    {
+        "question_number": 93,
+        "gold_label": "Alice's daughter",
+        "model_response": "Alice's daughter"
+    },
+    {
+        "question_number": 94,
+        "gold_label": "Jim",
+        "model_response": "Jim"
+    },
+    {
+        "question_number": 95,
+        "gold_label": "the guy in uniform",
+        "model_response": "the guy in uniform"
+    },
+    {
+        "question_number": 96,
+        "gold_label": "The fish",
+        "model_response": "The fish"
+    },
+    {
+        "question_number": 97,
+        "gold_label": "The worm",
+        "model_response": "The worm"
+    },
+    {
+        "question_number": 98,
+        "gold_label": "The key",
+        "model_response": "The key"
+    },
+    {
+        "question_number": 99,
+        "gold_label": "The chewing gum",
+        "model_response": "The chewing gum"
+    },
+    {
+        "question_number": 100,
+        "gold_label": "The dog",
+        "model_response": "The dog"
+    },
+    {
+        "question_number": 101,
+        "gold_label": "The cat",
+        "model_response": "The cat"
+    },
+    {
+        "question_number": 102,
+        "gold_label": "The tree",
+        "model_response": "The tree"
+    },
+    {
+        "question_number": 103,
+        "gold_label": "The roof",
+        "model_response": "The roof"
+    },
+    {
+        "question_number": 104,
+        "gold_label": "The customer",
+        "model_response": "The customer"
+    },
+    {
+        "question_number": 105,
+        "gold_label": "The teller",
+        "model_response": "The customer"
+    },
+    {
+        "question_number": 106,
+        "gold_label": "John",
+        "model_response": "John"
+    },
+    {
+        "question_number": 107,
+        "gold_label": "The man",
+        "model_response": "The man"
+    },
+    {
+        "question_number": 108,
+        "gold_label": "John",
+        "model_response": "The juggler"
+    },
+    {
+        "question_number": 109,
+        "gold_label": "The juggler",
+        "model_response": "The juggler"
+    },
+    {
+        "question_number": 110,
+        "gold_label": "Bob",
+        "model_response": "Bob"
+    },
+    {
+        "question_number": 111,
+        "gold_label": "Carl",
+        "model_response": "Carl"
+    },
+    {
+        "question_number": 112,
+        "gold_label": "Sam and Amy",
+        "model_response": "Amy's parents"
+    },
+    {
+        "question_number": 113,
+        "gold_label": "Amy's parents",
+        "model_response": "Amy's parents"
+    },
+    {
+        "question_number": 114,
+        "gold_label": "Mark",
+        "model_response": "Mark"
+    },
+    {
+        "question_number": 115,
+        "gold_label": "Pete",
+        "model_response": "Pete"
+    },
+    {
+        "question_number": 116,
+        "gold_label": "The old house",
+        "model_response": "The old house"
+    },
+    {
+        "question_number": 117,
+        "gold_label": "The new house",
+        "model_response": "The new house"
+    },
+    {
+        "question_number": 118,
+        "gold_label": "People",
+        "model_response": "People"
+    },
+    {
+        "question_number": 119,
+        "gold_label": "Paul's books",
+        "model_response": "Paul's books"
+    },
+    {
+        "question_number": 120,
+        "gold_label": "The flute",
+        "model_response": "The flute"
+    },
+    {
+        "question_number": 121,
+        "gold_label": "The piece",
+        "model_response": "The piece"
+    },
+    {
+        "question_number": 122,
+        "gold_label": "The chair",
+        "model_response": "The piano"
+    },
+    {
+        "question_number": 123,
+        "gold_label": "The piano",
+        "model_response": "The piano"
+    },
+    {
+        "question_number": 124,
+        "gold_label": "The newspaper",
+        "model_response": "The newspaper"
+    },
+    {
+        "question_number": 125,
+        "gold_label": "The backpack",
+        "model_response": "The newspaper"
+    },
+    {
+        "question_number": 126,
+        "gold_label": "The book",
+        "model_response": "The book"
+    },
+    {
+        "question_number": 127,
+        "gold_label": "The article",
+        "model_response": "The article"
+    },
+    {
+        "question_number": 128,
+        "gold_label": "The sand castle",
+        "model_response": "The sand castle"
+    },
+    {
+        "question_number": 129,
+        "gold_label": "The flag",
+        "model_response": "The sand castle"
+    },
+    {
+        "question_number": 130,
+        "gold_label": "Jane",
+        "model_response": "Jane"
+    },
+    {
+        "question_number": 131,
+        "gold_label": "Susan",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 132,
+        "gold_label": "Jane",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 133,
+        "gold_label": "Susan",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 134,
+        "gold_label": "Sam",
+        "model_response": "Sam"
+    },
+    {
+        "question_number": 135,
+        "gold_label": "Adam",
+        "model_response": "Adam"
+    },
+    {
+        "question_number": 136,
+        "gold_label": "The path",
+        "model_response": "The path"
+    },
+    {
+        "question_number": 137,
+        "gold_label": "The lake",
+        "model_response": "The lake"
+    },
+    {
+        "question_number": 138,
+        "gold_label": "The sun",
+        "model_response": "The sun"
+    },
+    {
+        "question_number": 139,
+        "gold_label": "The cloud",
+        "model_response": "The cloud"
+    },
+    {
+        "question_number": 140,
+        "gold_label": "The lake",
+        "model_response": "The lake"
+    },
+    {
+        "question_number": 141,
+        "gold_label": "The ocean beach",
+        "model_response": "The ocean beach"
+    },
+    {
+        "question_number": 142,
+        "gold_label": "The shepherds",
+        "model_response": "The sheep"
+    },
+    {
+        "question_number": 143,
+        "gold_label": "The sheep",
+        "model_response": "The sheep"
+    },
+    {
+        "question_number": 144,
+        "gold_label": "Mary",
+        "model_response": "Mary"
+    },
+    {
+        "question_number": 145,
+        "gold_label": "Mary's daughter",
+        "model_response": "Mary"
+    },
+    {
+        "question_number": 146,
+        "gold_label": "Fred and Alice",
+        "model_response": "Fred and Alice"
+    },
+    {
+        "question_number": 147,
+        "gold_label": "coats",
+        "model_response": "coats"
+    },
+    {
+        "question_number": 148,
+        "gold_label": "Thomson",
+        "model_response": "Thomson"
+    },
+    {
+        "question_number": 149,
+        "gold_label": "Cooper",
+        "model_response": "Cooper"
+    },
+    {
+        "question_number": 150,
+        "gold_label": "Jackson",
+        "model_response": "Arnold"
+    },
+    {
+        "question_number": 151,
+        "gold_label": "Arnold",
+        "model_response": "Arnold"
+    },
+    {
+        "question_number": 152,
+        "gold_label": "The tree",
+        "model_response": "The axe"
+    },
+    {
+        "question_number": 153,
+        "gold_label": "The axe",
+        "model_response": "The axe"
+    },
+    {
+        "question_number": 154,
+        "gold_label": "The foxes",
+        "model_response": "The foxes"
+    },
+    {
+        "question_number": 155,
+        "gold_label": "The chickens",
+        "model_response": "The chickens"
+    },
+    {
+        "question_number": 156,
+        "gold_label": "The foxes",
+        "model_response": "The foxes"
+    },
+    {
+        "question_number": 157,
+        "gold_label": "The chickens",
+        "model_response": "The chickens"
+    },
+    {
+        "question_number": 158,
+        "gold_label": "His eyes",
+        "model_response": "His eyes"
+    },
+    {
+        "question_number": 159,
+        "gold_label": "His hands",
+        "model_response": "His hands"
+    },
+    {
+        "question_number": 160,
+        "gold_label": "Terpsichore",
+        "model_response": "Terpsichore"
+    },
+    {
+        "question_number": 161,
+        "gold_label": "Tina",
+        "model_response": "Tina"
+    },
+    {
+        "question_number": 162,
+        "gold_label": "Fred",
+        "model_response": "Fred"
+    },
+    {
+        "question_number": 163,
+        "gold_label": "George",
+        "model_response": "George"
+    },
+    {
+        "question_number": 164,
+        "gold_label": "The dishwasher",
+        "model_response": "The dishwasher"
+    },
+    {
+        "question_number": 165,
+        "gold_label": "The TV",
+        "model_response": "The TV"
+    },
+    {
+        "question_number": 166,
+        "gold_label": "Fred",
+        "model_response": "Fred"
+    },
+    {
+        "question_number": 167,
+        "gold_label": "My great-grandfather",
+        "model_response": "My great-grandfather"
+    },
+    {
+        "question_number": 168,
+        "gold_label": "Fred",
+        "model_response": "Fred"
+    },
+    {
+        "question_number": 169,
+        "gold_label": "My father",
+        "model_response": "My father"
+    },
+    {
+        "question_number": 170,
+        "gold_label": "Kamchatka",
+        "model_response": "Yakutsk"
+    },
+    {
+        "question_number": 171,
+        "gold_label": "Yakutsk",
+        "model_response": "Yakutsk"
+    },
+    {
+        "question_number": 172,
+        "gold_label": "The minnow",
+        "model_response": "The minnow"
+    },
+    {
+        "question_number": 173,
+        "gold_label": "The duck",
+        "model_response": "The duck"
+    },
+    {
+        "question_number": 174,
+        "gold_label": "Archaeologists",
+        "model_response": "Archaeologists"
+    },
+    {
+        "question_number": 175,
+        "gold_label": "Prehistoric humans",
+        "model_response": "Prehistoric humans"
+    },
+    {
+        "question_number": 176,
+        "gold_label": "The scientists",
+        "model_response": "The scientists"
+    },
+    {
+        "question_number": 177,
+        "gold_label": "The fish",
+        "model_response": "The fish"
+    },
+    {
+        "question_number": 178,
+        "gold_label": "The journalists",
+        "model_response": "The journalists"
+    },
+    {
+        "question_number": 179,
+        "gold_label": "The stars",
+        "model_response": "The stars"
+    },
+    {
+        "question_number": 180,
+        "gold_label": "The police",
+        "model_response": "The police"
+    },
+    {
+        "question_number": 181,
+        "gold_label": "The gang members",
+        "model_response": "The gang members"
+    },
+    {
+        "question_number": 182,
+        "gold_label": "The cake",
+        "model_response": "The cake"
+    },
+    {
+        "question_number": 183,
+        "gold_label": "The refrigerator",
+        "model_response": "The refrigerator"
+    },
+    {
+        "question_number": 184,
+        "gold_label": "The ankles",
+        "model_response": "The ankles"
+    },
+    {
+        "question_number": 185,
+        "gold_label": "The crutches",
+        "model_response": "The crutches"
+    },
+    {
+        "question_number": 186,
+        "gold_label": "The sponsors",
+        "model_response": "The sponsors"
+    },
+    {
+        "question_number": 187,
+        "gold_label": "The opponents",
+        "model_response": "The opponents"
+    },
+    {
+        "question_number": 188,
+        "gold_label": "The oatmeal cookies",
+        "model_response": "The oatmeal cookies"
+    },
+    {
+        "question_number": 189,
+        "gold_label": "The chocolate chip cookies",
+        "model_response": "The chocolate chip cookies"
+    },
+    {
+        "question_number": 190,
+        "gold_label": "copies of the newsletter",
+        "model_response": "chairs"
+    },
+    {
+        "question_number": 191,
+        "gold_label": "chairs",
+        "model_response": "chairs"
+    },
+    {
+        "question_number": 192,
+        "gold_label": "The pin",
+        "model_response": "The pin"
+    },
+    {
+        "question_number": 193,
+        "gold_label": "The carrot",
+        "model_response": "The carrot"
+    },
+    {
+        "question_number": 194,
+        "gold_label": "The pen",
+        "model_response": "The pen"
+    },
+    {
+        "question_number": 195,
+        "gold_label": "The coffee",
+        "model_response": "The pen"
+    },
+    {
+        "question_number": 196,
+        "gold_label": "Steve",
+        "model_response": "Steve"
+    },
+    {
+        "question_number": 197,
+        "gold_label": "Fred",
+        "model_response": "Fred"
+    },
+    {
+        "question_number": 198,
+        "gold_label": "The table",
+        "model_response": "The table"
+    },
+    {
+        "question_number": 199,
+        "gold_label": "The doorway",
+        "model_response": "The doorway"
+    },
+    {
+        "question_number": 200,
+        "gold_label": "The sweater",
+        "model_response": "The sweater"
+    },
+    {
+        "question_number": 201,
+        "gold_label": "The jacket",
+        "model_response": "The sweater"
+    },
+    {
+        "question_number": 202,
+        "gold_label": "John",
+        "model_response": "John"
+    },
+    {
+        "question_number": 203,
+        "gold_label": "Bill",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 204,
+        "gold_label": "John",
+        "model_response": "John"
+    },
+    {
+        "question_number": 205,
+        "gold_label": "Bill",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 206,
+        "gold_label": "Goodman",
+        "model_response": "Xenophanes"
+    },
+    {
+        "question_number": 207,
+        "gold_label": "Xenophanes",
+        "model_response": "Xenophanes"
+    },
+    {
+        "question_number": 208,
+        "gold_label": "Emma",
+        "model_response": "Emma"
+    },
+    {
+        "question_number": 209,
+        "gold_label": "Emma's mother",
+        "model_response": "Emma's mother"
+    },
+    {
+        "question_number": 210,
+        "gold_label": "Jane",
+        "model_response": "Jane"
+    },
+    {
+        "question_number": 211,
+        "gold_label": "Susan",
+        "model_response": "Susan"
+    },
+    {
+        "question_number": 212,
+        "gold_label": "Joe",
+        "model_response": "Joe"
+    },
+    {
+        "question_number": 213,
+        "gold_label": "the detective",
+        "model_response": "the detective"
+    },
+    {
+        "question_number": 214,
+        "gold_label": "Beth",
+        "model_response": "Beth"
+    },
+    {
+        "question_number": 215,
+        "gold_label": "Sally",
+        "model_response": "Sally"
+    },
+    {
+        "question_number": 216,
+        "gold_label": "Jim",
+        "model_response": "Jim"
+    },
+    {
+        "question_number": 217,
+        "gold_label": "The barman",
+        "model_response": "Jim"
+    },
+    {
+        "question_number": 218,
+        "gold_label": "Dan",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 219,
+        "gold_label": "Bill",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 220,
+        "gold_label": "Tom",
+        "model_response": "Tom"
+    },
+    {
+        "question_number": 221,
+        "gold_label": "Ralph",
+        "model_response": "Ralph"
+    },
+    {
+        "question_number": 222,
+        "gold_label": "Andrea",
+        "model_response": "Andrea"
+    },
+    {
+        "question_number": 223,
+        "gold_label": "Susan",
+        "model_response": "Andrea"
+    },
+    {
+        "question_number": 224,
+        "gold_label": "Tom",
+        "model_response": "Ralph"
+    },
+    {
+        "question_number": 225,
+        "gold_label": "Ralph",
+        "model_response": "Ralph"
+    },
+    {
+        "question_number": 226,
+        "gold_label": "Bill",
+        "model_response": "John"
+    },
+    {
+        "question_number": 227,
+        "gold_label": "John",
+        "model_response": "John"
+    },
+    {
+        "question_number": 228,
+        "gold_label": "Bill",
+        "model_response": "John"
+    },
+    {
+        "question_number": 229,
+        "gold_label": "John",
+        "model_response": "John"
+    },
+    {
+        "question_number": 230,
+        "gold_label": "The man",
+        "model_response": "The man"
+    },
+    {
+        "question_number": 231,
+        "gold_label": "The boy",
+        "model_response": "The man"
+    },
+    {
+        "question_number": 232,
+        "gold_label": "The woman",
+        "model_response": "The woman"
+    },
+    {
+        "question_number": 233,
+        "gold_label": "The girl",
+        "model_response": "The girl"
+    },
+    {
+        "question_number": 234,
+        "gold_label": "Billy",
+        "model_response": "Billy"
+    },
+    {
+        "question_number": 235,
+        "gold_label": "Toby",
+        "model_response": "Toby"
+    },
+    {
+        "question_number": 236,
+        "gold_label": "Lily",
+        "model_response": "Lily"
+    },
+    {
+        "question_number": 237,
+        "gold_label": "Donna",
+        "model_response": "Donna"
+    },
+    {
+        "question_number": 238,
+        "gold_label": "Tommy",
+        "model_response": "Timmy"
+    },
+    {
+        "question_number": 239,
+        "gold_label": "Timmy",
+        "model_response": "Timmy"
+    },
+    {
+        "question_number": 240,
+        "gold_label": "Ollie",
+        "model_response": "Ollie"
+    },
+    {
+        "question_number": 241,
+        "gold_label": "Tommy",
+        "model_response": "Tommy"
+    },
+    {
+        "question_number": 242,
+        "gold_label": "The father",
+        "model_response": "The father"
+    },
+    {
+        "question_number": 243,
+        "gold_label": "The boy",
+        "model_response": "The father"
+    },
+    {
+        "question_number": 244,
+        "gold_label": "The woman",
+        "model_response": "The woman"
+    },
+    {
+        "question_number": 245,
+        "gold_label": "The girl",
+        "model_response": "The woman"
+    },
+    {
+        "question_number": 246,
+        "gold_label": "Pam's parents",
+        "model_response": "Pam's parents"
+    },
+    {
+        "question_number": 247,
+        "gold_label": "Pam and Paul",
+        "model_response": "Pam's parents"
+    },
+    {
+        "question_number": 248,
+        "gold_label": "Dr. Adams",
+        "model_response": "Kate"
+    },
+    {
+        "question_number": 249,
+        "gold_label": "Kate",
+        "model_response": "Kate"
+    },
+    {
+        "question_number": 250,
+        "gold_label": "Dan",
+        "model_response": "Dan"
+    },
+    {
+        "question_number": 251,
+        "gold_label": "Bill",
+        "model_response": "Bill"
+    },
+    {
+        "question_number": 252,
+        "gold_label": "George",
+        "model_response": "George"
+    },
+    {
+        "question_number": 253,
+        "gold_label": "Eric",
+        "model_response": "Eric"
+    },
+    {
+        "question_number": 254,
+        "gold_label": "George",
+        "model_response": "George"
+    },
+    {
+        "question_number": 255,
+        "gold_label": "Jane",
+        "model_response": "Joan"
+    },
+    {
+        "question_number": 256,
+        "gold_label": "Joan",
+        "model_response": "Joan"
+    },
+    {
+        "question_number": 257,
+        "gold_label": "lemons",
+        "model_response": "lemons"
+    },
+    {
+        "question_number": 258,
+        "gold_label": "lemon trees",
+        "model_response": "lemon trees"
+    },
+    {
+        "question_number": 259,
+        "gold_label": "James",
+        "model_response": "Robert"
+    },
+    {
+        "question_number": 260,
+        "gold_label": "Robert",
+        "model_response": "Robert"
+    },
+    {
+        "question_number": 261,
+        "gold_label": "Kirilov",
+        "model_response": "Kirilov"
+    },
+    {
+        "question_number": 262,
+        "gold_label": "Shatov",
+        "model_response": "Shatov"
+    },
+    {
+        "question_number": 263,
+        "gold_label": "Emma",
+        "model_response": "Emma"
+    },
+    {
+        "question_number": 264,
+        "gold_label": "Janie",
+        "model_response": "Janie"
+    },
+    {
+        "question_number": 265,
+        "gold_label": "The butterfly wing",
+        "model_response": "The butterfly wing"
+    },
+    {
+        "question_number": 266,
+        "gold_label": "The table",
+        "model_response": "The table"
+    },
+    {
+        "question_number": 267,
+        "gold_label": "Madonna",
+        "model_response": "The trainer"
+    },
+    {
+        "question_number": 268,
+        "gold_label": "The trainer",
+        "model_response": "The trainer"
+    },
+    {
+        "question_number": 269,
+        "gold_label": "Madonna",
+        "model_response": "The trainer"
+    },
+    {
+        "question_number": 270,
+        "gold_label": "The trainer",
+        "model_response": "The trainer"
+    },
+    {
+        "question_number": 271,
+        "gold_label": "Carol",
+        "model_response": "Rebecca"
+    },
+    {
+        "question_number": 272,
+        "gold_label": "Rebecca",
+        "model_response": "Rebecca"
+    },
+    {
+        "question_number": 273,
+        "gold_label": "Shakespeare",
+        "model_response": "Shakespeare"
+    },
+    {
+        "question_number": 274,
+        "gold_label": "Goethe",
+        "model_response": "Goethe"
+    },
+    {
+        "question_number": 275,
+        "gold_label": "Ovid",
+        "model_response": "Ovid"
+    },
+    {
+        "question_number": 276,
+        "gold_label": "Shakespeare",
+        "model_response": "Shakespeare"
+    },
+    {
+        "question_number": 277,
+        "gold_label": "Alice",
+        "model_response": "Alice"
+    },
+    {
+        "question_number": 278,
+        "gold_label": "Jade",
+        "model_response": "Jade"
+    },
+    {
+        "question_number": 279,
+        "gold_label": "Ethan",
+        "model_response": "Luke"
+    },
+    {
+        "question_number": 280,
+        "gold_label": "Luke",
+        "model_response": "Luke"
+    },
+    {
+        "question_number": 281,
+        "gold_label": "the judges",
+        "model_response": "the chatbots"
+    },
+    {
+        "question_number": 282,
+        "gold_label": "the chatbots",
+        "model_response": "the chatbots"
+    },
+    {
+        "question_number": 283,
+        "gold_label": "GrWQWu8JyC",
+        "model_response": "GrWQWu8JyC"
+    },
+    {
+        "question_number": 284,
+        "gold_label": "willow-towered Canopy Huntertropic wrestles",
+        "model_response": "willow-towered Canopy Huntertropic wrestles"
+    }
+]

@@ -11,7 +11,7 @@ class WinogradEvaluator:
         self.model.eval()
 
     def sentence_log_probability(self, sentence):
-        inputs = self.tokenizer.encode(sentence, return_tensors='pt')
+        inputs = self.tokenizer.encode(sentence, return_tensors='pt').to(self.device)
         with torch.no_grad():
             outputs = self.model(inputs, labels=inputs)
         return -outputs.loss.item()

@@ -12,5 +12,5 @@ if __name__ == "__main__":
     model_name = sys.argv[1]
     evaluator = WinogradEvaluator(model_name)
     accuracy_en = evaluator.evaluate_accuracy(winograd_en['test'])
-    accuracy_th = evaluator.evaluate_accuracy(winograd_th['train'])
+    accuracy_th = evaluator.evaluate_accuracy(winograd_th['test'])
     print(f'Accuracy with {model_name}: accuracy_en={accuracy_en:.2f} accuracy_th={accuracy_th:.2f}')
