@@ -1,0 +1,7 @@
+Dataset_en,Model Answer_en,Gold Label_en,Correct_en,Gold Label_th,Model Answer_th,Correct_th
+dataset_en,Bill,Frank,0,สมชาย,สมศักดิ์,0
+dataset_en,Tom,Ray,0,สมบัตร,สมบูรณ์,0
+dataset_en,The sack of potatoes,The bag of flour,0,ถุงแป้ง,กระสอบมันฝรั่ง,0
+dataset_en,The shelf,The pot,0,หม้อ,ชั้นวาง,0
+dataset_en,Ralph,Tom,0,แชมป์,ธันวา,0
+dataset_en,Robert,James,0,ไทม์,ไนท์,0

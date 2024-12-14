@@ -1,0 +1,10 @@
+Dataset_en,Model Answer_en,Gold Label_en,Correct_en,Gold Label_th,Model Answer_th,Correct_th
+dataset_en,Tom,Ray,0,สมบัตร,สมบูรณ์,0
+dataset_en,Sam's drawing,Tina's drawing,0,ภาพวาดของปลื้ม,ภาพวาดของขิม,0
+dataset_en,The sack of potatoes,The bag of flour,0,ถุงแป้ง,กระสอบมันฝรั่ง,0
+dataset_en,Martin,Pete,0,ภาคิน,ออมสิน,0
+dataset_en,Bob,Adam,0,สมปอง,สมศักดิ์,0
+dataset_en,The pen,The coffee,0,กาแฟ,ปากกา,0
+dataset_en,Jim,The barman,0,พนักงานเสิร์ฟ,เฉลิม,0
+dataset_en,Bill,Dan,0,ไตรภพ,ดิลก,0
+dataset_en,The man,The boy,0,เด็กผู้ชาย,บุรุษ,0

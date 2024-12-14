@@ -1,0 +1,26 @@
+Dataset_en,Model Answer_en,Gold Label_en,Correct_en,Gold Label_th,Model Answer_th,Correct_th
+dataset_en,Bill,Frank,0,สมชาย,สมศักดิ์,0
+dataset_en,The large ball,The table,0,โต๊ะ,ลูกบอลอันใหญ่,0
+dataset_en,Tom,Ray,0,สมบัตร,สมบูรณ์,0
+dataset_en,Sam's drawing,Tina's drawing,0,ภาพวาดของปลื้ม,ภาพวาดของขิม,0
+dataset_en,The sack of potatoes,The bag of flour,0,ถุงแป้ง,กระสอบมันฝรั่ง,0
+dataset_en,Susan,Ann,0,พู่กัน,จันทร์เจ้า,0
+dataset_en,Susan,Ann,0,สมใจ,สมศรี,0
+dataset_en,Bob,Adam,0,มานะ,ปิติ,0
+dataset_en,The dog,The spot under the tree,0,ที่ใต้ต้นไม้,สุนัข,0
+dataset_en,The newspaper,The backpack,0,กระเป๋าเป้,หนังสือพิมพ์,0
+dataset_en,Susan,Jane,0,อารยา,วีรดา,0
+dataset_en,The pen,The coffee,0,กาแฟ,ปากกา,0
+dataset_en,Steve,Fred,0,ฌอน,เจโรม,0
+dataset_en,Jim,The barman,0,พนักงานเสิร์ฟ,เฉลิม,0
+dataset_en,Andrea,Susan,0,ดาริน,ณัชชา,0
+dataset_en,Ralph,Tom,0,แชมป์,ธันวา,0
+dataset_en,John,Bill,0,อิกคิว,ฟีฟ่า,0
+dataset_en,John,Bill,0,ตะวัน,กันต์ธี,0
+dataset_en,The man,The boy,0,เด็กผู้ชาย,บุรุษ,0
+dataset_en,Donna,Lily,0,อัญชลี,ธัญพร,0
+dataset_en,Joan,Jane,0,นานา,บลู,0
+dataset_en,lemons,lemon trees,0,ต้นมะนาว,ลูกมะนาว,0
+dataset_en,Robert,James,0,ไทม์,ไนท์,0
+dataset_en,Shatov,Kirilov,0,เศรษฐา,ทักษิณ,0
+dataset_en,Luke,Ethan,0,ดอน,ศุภชัย,0

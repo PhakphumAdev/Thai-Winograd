@@ -1,0 +1,856 @@
+Dataset,Model Answer,Gold Label,Correct
+dataset_en,The city councilmen,The city councilmen,1
+dataset_en,The city councilmen,The demonstrators,0
+dataset_en,the trophy,the trophy,1
+dataset_en,the suitcase,the suitcase,1
+dataset_en,Susan,Joan,0
+dataset_en,Susan,Susan,1
+dataset_en,Paul,Paul,1
+dataset_en,George,George,1
+dataset_en,the witness,the lawyer,0
+dataset_en,the witness,the witness,1
+dataset_en,the delivery truck,the delivery truck,1
+dataset_en,the delivery truck,the school bus,0
+dataset_en,Frank,Frank,1
+dataset_en,Bill,Bill,1
+dataset_en,The man,The man,1
+dataset_en,The man,The son,0
+dataset_en,The table,The large ball,0
+dataset_en,The table,The table,1
+dataset_en,John,John,1
+dataset_en,Billy,Billy,1
+dataset_en,Tom,Tom,1
+dataset_en,Ray,Ray,1
+dataset_en,Sue,Sue,1
+dataset_en,Sue,Sally,0
+dataset_en,The sculpture,The sculpture,1
+dataset_en,The sculpture,The shelf,0
+dataset_en,Sam's drawing,Sam's drawing,1
+dataset_en,Sam's drawing,Tina's drawing,0
+dataset_en,Anna,Anna,1
+dataset_en,Anna,Lucy,0
+dataset_en,The firemen,The firemen,1
+dataset_en,The firemen,The police,0
+dataset_en,Tom,Frank,0
+dataset_en,Frank,Tom,0
+dataset_en,Jim,Jim,1
+dataset_en,Kevin,Kevin,1
+dataset_en,The sack of potatoes,The sack of potatoes,1
+dataset_en,The sack of potatoes,The bag of flour,0
+dataset_en,Pete,Pete,1
+dataset_en,Martin,Martin,1
+dataset_en,The older students,The older students,1
+dataset_en,The older students,The younger students,0
+dataset_en,the bottle,the bottle,1
+dataset_en,the cup,the cup,1
+dataset_en,Susan,Susan,1
+dataset_en,Susan,Ann,0
+dataset_en,Sid,Sid,1
+dataset_en,Sid,Mark,0
+dataset_en,Susan,Susan,1
+dataset_en,Susan,Ann,0
+dataset_en,Joe's uncle,Joe,0
+dataset_en,Joe's uncle,Joe's uncle,1
+dataset_en,The painting,The painting,1
+dataset_en,The painting,The oak tree,0
+dataset_en,The wall,The gap,0
+dataset_en,The wall,The wall,1
+dataset_en,The drain,The drain,1
+dataset_en,The drain,The hair,0
+dataset_en,The meeting,The meeting,1
+dataset_en,The train,The train,1
+dataset_en,The pillar,The pillar,1
+dataset_en,The pillar,The stage,0
+dataset_en,The announcement,The announcement,1
+dataset_en,The announcement,The subway,0
+dataset_en,The rain,The concert,0
+dataset_en,The rain,The rain,1
+dataset_en,The knife,The rag,0
+dataset_en,The knife,The knife,1
+dataset_en,Ann,Ann,1
+dataset_en,Ann,Mary,0
+dataset_en,The water bottle,The water bottle,1
+dataset_en,The water bottle,The backpack,0
+dataset_en,The pot,The pot,1
+dataset_en,The pot,The shelf,0
+dataset_en,The building,The map,0
+dataset_en,The building,The building,1
+dataset_en,Bob,Bob,1
+dataset_en,Charlie,Charlie,1
+dataset_en,Charlie,Bob,0
+dataset_en,Charlie,Charlie,1
+dataset_en,Bob,Bob,1
+dataset_en,Bob,Adam,0
+dataset_en,Bob,Adam,0
+dataset_en,Bob,Bob,1
+dataset_en,The con artist,The con artist,1
+dataset_en,The con artist,Sam,0
+dataset_en,The dog,The dog,1
+dataset_en,The dog,The spot under the tree,0
+dataset_en,The cat,The cat,1
+dataset_en,The cat,The mouse,0
+dataset_en,Anne,Anne,1
+dataset_en,Anne's daughter,Anne's daughter,1
+dataset_en,Alice,Alice,1
+dataset_en,Alice,Alice's daughter,0
+dataset_en,Jim,Jim,1
+dataset_en,Jim,the guy in uniform,0
+dataset_en,The fish,The fish,1
+dataset_en,The fish,The worm,0
+dataset_en,The key,The key,1
+dataset_en,The key,The chewing gum,0
+dataset_en,The cat,The dog,0
+dataset_en,The cat,The cat,1
+dataset_en,The tree,The tree,1
+dataset_en,The tree,The roof,0
+dataset_en,The teller,The customer,0
+dataset_en,The teller,The teller,1
+dataset_en,John,John,1
+dataset_en,The man,The man,1
+dataset_en,John,John,1
+dataset_en,The juggler,The juggler,1
+dataset_en,Bob,Bob,1
+dataset_en,Bob,Carl,0
+dataset_en,Amy's parents,Sam and Amy,0
+dataset_en,Amy's parents,Amy's parents,1
+dataset_en,Pete,Mark,0
+dataset_en,Pete,Pete,1
+dataset_en,The old house,The old house,1
+dataset_en,The new house,The new house,1
+dataset_en,People,People,1
+dataset_en,People,Paul's books,0
+dataset_en,The flute,The flute,1
+dataset_en,The piece,The piece,1
+dataset_en,The chair,The chair,1
+dataset_en,The chair,The piano,0
+dataset_en,The newspaper,The newspaper,1
+dataset_en,The newspaper,The backpack,0
+dataset_en,The book,The book,1
+dataset_en,The book,The article,0
+dataset_en,The sand castle,The sand castle,1
+dataset_en,The sand castle,The flag,0
+dataset_en,Jane,Jane,1
+dataset_en,Susan,Susan,1
+dataset_en,Susan,Jane,0
+dataset_en,Susan,Susan,1
+dataset_en,Sam,Sam,1
+dataset_en,Sam,Adam,0
+dataset_en,The path,The path,1
+dataset_en,The lake,The lake,1
+dataset_en,The sun,The sun,1
+dataset_en,The sun,The cloud,0
+dataset_en,The lake,The lake,1
+dataset_en,The ocean beach,The ocean beach,1
+dataset_en,The shepherds,The shepherds,1
+dataset_en,The shepherds,The sheep,0
+dataset_en,Mary,Mary,1
+dataset_en,Mary,Mary's daughter,0
+dataset_en,Fred and Alice,Fred and Alice,1
+dataset_en,Fred and Alice,coats,0
+dataset_en,Thomson,Thomson,1
+dataset_en,Cooper,Cooper,1
+dataset_en,Arnold,Jackson,0
+dataset_en,Arnold,Arnold,1
+dataset_en,The tree,The tree,1
+dataset_en,The tree,The axe,0
+dataset_en,The foxes,The foxes,1
+dataset_en,The foxes,The chickens,0
+dataset_en,The foxes,The foxes,1
+dataset_en,The foxes,The chickens,0
+dataset_en,His eyes,His eyes,1
+dataset_en,His hands,His hands,1
+dataset_en,Tina,Terpsichore,0
+dataset_en,Tina,Tina,1
+dataset_en,George,Fred,0
+dataset_en,George,George,1
+dataset_en,The dishwasher,The dishwasher,1
+dataset_en,The dishwasher,The TV,0
+dataset_en,Fred,Fred,1
+dataset_en,Fred,My great-grandfather,0
+dataset_en,Fred,Fred,1
+dataset_en,Fred,My father,0
+dataset_en,Yakutsk,Kamchatka,0
+dataset_en,Yakutsk,Yakutsk,1
+dataset_en,The minnow,The minnow,1
+dataset_en,The duck,The duck,1
+dataset_en,Archaeologists,Archaeologists,1
+dataset_en,Archaeologists,Prehistoric humans,0
+dataset_en,The scientists,The scientists,1
+dataset_en,The fish,The fish,1
+dataset_en,The stars,The journalists,0
+dataset_en,The stars,The stars,1
+dataset_en,The gang members,The police,0
+dataset_en,The gang members,The gang members,1
+dataset_en,The cake,The cake,1
+dataset_en,The cake,The refrigerator,0
+dataset_en,The ankles,The ankles,1
+dataset_en,The ankles,The crutches,0
+dataset_en,The sponsors,The sponsors,1
+dataset_en,The sponsors,The opponents,0
+dataset_en,The oatmeal cookies,The oatmeal cookies,1
+dataset_en,The oatmeal cookies,The chocolate chip cookies,0
+dataset_en,chairs,copies of the newsletter,0
+dataset_en,chairs,chairs,1
+dataset_en,The pin,The pin,1
+dataset_en,The carrot,The carrot,1
+dataset_en,The pen,The pen,1
+dataset_en,The pen,The coffee,0
+dataset_en,Fred,Steve,0
+dataset_en,Fred,Fred,1
+dataset_en,The table,The table,1
+dataset_en,The table,The doorway,0
+dataset_en,The sweater,The sweater,1
+dataset_en,The sweater,The jacket,0
+dataset_en,Bill,John,0
+dataset_en,John,Bill,0
+dataset_en,John,John,1
+dataset_en,John,Bill,0
+dataset_en,Xenophanes,Goodman,0
+dataset_en,Xenophanes,Xenophanes,1
+dataset_en,Emma's mother,Emma,0
+dataset_en,Emma's mother,Emma's mother,1
+dataset_en,Susan,Jane,0
+dataset_en,Susan,Susan,1
+dataset_en,Joe,Joe,1
+dataset_en,the detective,the detective,1
+dataset_en,Beth,Beth,1
+dataset_en,Beth,Sally,0
+dataset_en,Jim,Jim,1
+dataset_en,Jim,The barman,0
+dataset_en,Bill,Dan,0
+dataset_en,Bill,Bill,1
+dataset_en,Tom,Tom,1
+dataset_en,Tom,Ralph,0
+dataset_en,Andrea,Andrea,1
+dataset_en,Andrea,Susan,0
+dataset_en,Tom,Tom,1
+dataset_en,Tom,Ralph,0
+dataset_en,John,Bill,0
+dataset_en,John,John,1
+dataset_en,John,Bill,0
+dataset_en,John,John,1
+dataset_en,The man,The man,1
+dataset_en,The man,The boy,0
+dataset_en,The woman,The woman,1
+dataset_en,The woman,The girl,0
+dataset_en,Billy,Billy,1
+dataset_en,Billy,Toby,0
+dataset_en,Donna,Lily,0
+dataset_en,Donna,Donna,1
+dataset_en,Tommy,Tommy,1
+dataset_en,Tommy,Timmy,0
+dataset_en,Ollie,Ollie,1
+dataset_en,Ollie,Tommy,0
+dataset_en,The father,The father,1
+dataset_en,The father,The boy,0
+dataset_en,The woman,The woman,1
+dataset_en,The woman,The girl,0
+dataset_en,Pam's parents,Pam's parents,1
+dataset_en,Pam's parents,Pam and Paul,0
+dataset_en,Kate,Dr. Adams,0
+dataset_en,Kate,Kate,1
+dataset_en,Dan,Dan,1
+dataset_en,Bill,Bill,1
+dataset_en,George,George,1
+dataset_en,Eric,Eric,1
+dataset_en,George,George,1
+dataset_en,Jane,Jane,1
+dataset_en,Jane,Joan,0
+dataset_en,lemons,lemons,1
+dataset_en,lemons,lemon trees,0
+dataset_en,Robert,James,0
+dataset_en,Robert,Robert,1
+dataset_en,Shatov,Kirilov,0
+dataset_en,Shatov,Shatov,1
+dataset_en,Emma,Emma,1
+dataset_en,Emma,Janie,0
+dataset_en,The butterfly wing,The butterfly wing,1
+dataset_en,The heavy book,The table,0
+dataset_en,The trainer,Madonna,0
+dataset_en,The trainer,The trainer,1
+dataset_en,The trainer,Madonna,0
+dataset_en,The trainer,The trainer,1
+dataset_en,Rebecca,Carol,0
+dataset_en,Rebecca,Rebecca,1
+dataset_en,Shakespeare,Shakespeare,1
+dataset_en,Shakespeare,Goethe,0
+dataset_en,Shakespeare,Ovid,0
+dataset_en,Shakespeare,Shakespeare,1
+dataset_en,Alice,Alice,1
+dataset_en,Alice,Jade,0
+dataset_en,Ethan,Ethan,1
+dataset_en,Ethan,Luke,0
+dataset_en,the judges,the judges,1
+dataset_en,the judges,the chatbots,0
+dataset_en,GrWQWu8JyC,GrWQWu8JyC,1
+dataset_en,GrWQWu8JyC,willow-towered Canopy Huntertropic wrestles,0
+dataset_th,สมาชิกสภาเทศบาลเมือง,สมาชิกสภาเทศบาลเมือง,1
+dataset_th,สมาชิกสภาเทศบาลเมือง,ผู้ชุมนุม,0
+dataset_th,ถ้วยรางวัล,ถ้วยรางวัล,1
+dataset_th,ถ้วยรางวัล,กระเป๋าเดินทาง,0
+dataset_th,ชูใจ,ชูใจ,1
+dataset_th,ชูใจ,มานี,0
+dataset_th,มานะ,มานะ,1
+dataset_th,มานะ,ปิติ,0
+dataset_th,ทนายความ,ทนายความ,1
+dataset_th,พยาน,พยาน,1
+dataset_th,รถส่งของ,รถส่งของ,1
+dataset_th,รถโรงเรียน,รถโรงเรียน,1
+dataset_th,สมชาย,สมชาย,1
+dataset_th,สมชาย,สมศักดิ์,0
+dataset_th,ชายคนนั้น,ชายคนนั้น,1
+dataset_th,ชายคนนั้น,ลูกชาย,0
+dataset_th,ลูกบอลอันใหญ่,ลูกบอลอันใหญ่,1
+dataset_th,ลูกบอลอันใหญ่,โต๊ะ,0
+dataset_th,สมเกียรติ,สมเกียรติ,1
+dataset_th,สมเกียรติ,สมจิต,0
+dataset_th,สมบัตร,สมบูรณ์,0
+dataset_th,สมบัตร,สมบัตร,1
+dataset_th,ตะวัน,ตะวัน,1
+dataset_th,ตะวัน,ต้องตา,0
+dataset_th,หุ่นตัวนั้น,หุ่นตัวนั้น,1
+dataset_th,หุ่นตัวนั้น,ชั้นวาง,0
+dataset_th,ภาพวาดของปลื้ม,ภาพวาดของขิม,0
+dataset_th,ภาพวาดของปลื้ม,ภาพวาดของปลื้ม,1
+dataset_th,น้ำฝน,น้ำฝน,1
+dataset_th,น้ำฝน,น้ำค้าง,0
+dataset_th,นักดับเพลิง,นักดับเพลิง,1
+dataset_th,นักดับเพลิง,ตำรวจ,0
+dataset_th,ภัทร,นนท์,0
+dataset_th,ภัทร,ภัทร,1
+dataset_th,กรณ์,กรณ์,1
+dataset_th,กรณ์,ภีม,0
+dataset_th,กระสอบมันฝรั่ง,กระสอบมันฝรั่ง,1
+dataset_th,กระสอบมันฝรั่ง,ถุงแป้ง,0
+dataset_th,ภาคิน,ภาคิน,1
+dataset_th,ภาคิน,ออมสิน,0
+dataset_th,นักเรียนที่โตกว่า,นักเรียนที่โตกว่า,1
+dataset_th,นักเรียนที่โตกว่า,เด็กที่เด็กกว่า,0
+dataset_th,แก้ว,ขวด,0
+dataset_th,แก้ว,แก้ว,1
+dataset_th,จันทร์เจ้า,จันทร์เจ้า,1
+dataset_th,จันทร์เจ้า,พู่กัน,0
+dataset_th,มานะ,มานะ,1
+dataset_th,มานะ,ปิติ,0
+dataset_th,สมศรี,สมศรี,1
+dataset_th,สมศรี,สมใจ,0
+dataset_th,ตะวัน,ตะวัน,1
+dataset_th,ตะวัน,ลุงของตะวัน,0
+dataset_th,ต้นโอ๊ค,ภาพวาด,0
+dataset_th,ต้นโอ๊ค,ต้นโอ๊ค,1
+dataset_th,ช่องว่าง,ช่องว่าง,1
+dataset_th,ช่องว่าง,ผนัง,0
+dataset_th,ท่อระบายน้ำ,ท่อระบายน้ำ,1
+dataset_th,เส้นผม,เส้นผม,1
+dataset_th,การประชุม,การประชุม,1
+dataset_th,รถไฟ,รถไฟ,1
+dataset_th,เสา,เสา,1
+dataset_th,เสา,เวที,0
+dataset_th,เสียงตามสาย,เสียงตามสาย,1
+dataset_th,รถไฟใต้ดิน,รถไฟใต้ดิน,1
+dataset_th,ฝน,คอนเสิร์ต,0
+dataset_th,ฝน,ฝน,1
+dataset_th,ผ้าขี้ริ้วเก่าๆ,ผ้าขี้ริ้วเก่าๆ,1
+dataset_th,ผ้าขี้ริ้วเก่าๆ,มีด,0
+dataset_th,มะลิ,มะลิ,1
+dataset_th,มะลิ,กระถิน,0
+dataset_th,ขวดน้ำ,ขวดน้ำ,1
+dataset_th,ขวดน้ำ,กระเป๋า,0
+dataset_th,หม้อ,หม้อ,1
+dataset_th,หม้อ,ชั้นวาง,0
+dataset_th,อาคาร,แผนที่,0
+dataset_th,อาคาร,อาคาร,1
+dataset_th,ปิติ,ปิติ,1
+dataset_th,ปิติ,มานะ,0
+dataset_th,ปิติ,ปิติ,1
+dataset_th,ปิติ,มานะ,0
+dataset_th,สมปอง,สมศักดิ์,0
+dataset_th,สมปอง,สมปอง,1
+dataset_th,มานะ,มานะ,1
+dataset_th,มานะ,ปิติ,0
+dataset_th,นักต้มตุ๋น,นักต้มตุ๋น,1
+dataset_th,นักต้มตุ๋น,สมรัก,0
+dataset_th,สุนัข,สุนัข,1
+dataset_th,สุนัข,ที่ใต้ต้นไม้,0
+dataset_th,แมว,แมว,1
+dataset_th,แมว,หนู,0
+dataset_th,บุตรสาวของแก้ว,แก้ว,0
+dataset_th,บุตรสาวของแก้ว,บุตรสาวของแก้ว,1
+dataset_th,แพร,แพร,1
+dataset_th,แพร,ลูกสาวของแพร,0
+dataset_th,นพ,นพ,1
+dataset_th,นพ,ชายในชุดทหาร,0
+dataset_th,หนอน,ปลา,0
+dataset_th,ปลา,หนอน,0
+dataset_th,หมากฝรั่ง,กุญแจ,0
+dataset_th,หมากฝรั่ง,หมากฝรั่ง,1
+dataset_th,สุนัข,สุนัข,1
+dataset_th,สุนัข,แมว,0
+dataset_th,ต้นไม้,ต้นไม้,1
+dataset_th,ต้นไม้,หลังคา,0
+dataset_th,พนักงาน,ลูกค้า,0
+dataset_th,พนักงาน,พนักงาน,1
+dataset_th,สมพงษ์,สมพงษ์,1
+dataset_th,สมพงษ์,ชายท่านหนึ่ง,0
+dataset_th,ธนากร,ธนากร,1
+dataset_th,ธนากร,ชายผู้เล่นจักกลิ้ง,0
+dataset_th,ภานุ,ภานุ,1
+dataset_th,ภานุ,ภูผา,0
+dataset_th,ผู้ปกครองของยุ้ย,เอ็มและยุ้ย,0
+dataset_th,ผู้ปกครองของยุ้ย,ผู้ปกครองของยุ้ย,1
+dataset_th,โดม,โอ๋น,0
+dataset_th,โดม,โดม,1
+dataset_th,บ้านของตัวเอง,บ้านของตัวเอง,1
+dataset_th,บ้านหลังใหม่,บ้านหลังใหม่,1
+dataset_th,คน,คน,1
+dataset_th,งานประพันธ์ของเจนภพ,งานประพันธ์ของเจนภพ,1
+dataset_th,ขลุ่ย,ขลุ่ย,1
+dataset_th,เพลง,เพลง,1
+dataset_th,เก้าอี้,เก้าอี้,1
+dataset_th,เปียโน,เปียโน,1
+dataset_th,หนังสือพิมพ์,หนังสือพิมพ์,1
+dataset_th,หนังสือพิมพ์,กระเป๋าเป้,0
+dataset_th,หนังสือ,หนังสือ,1
+dataset_th,หนังสือ,บทความ,0
+dataset_th,ธง,ปราสาททราย,0
+dataset_th,ธง,ธง,1
+dataset_th,อารยา,อารยา,1
+dataset_th,อารยา,วีรดา,0
+dataset_th,อารยา,อารยา,1
+dataset_th,อารยา,วีรดา,0
+dataset_th,เฉลิม,เฉลิม,1
+dataset_th,เฉลิม,กชกร,0
+dataset_th,เส้นทาง,เส้นทาง,1
+dataset_th,เส้นทาง,ชลธาร,0
+dataset_th,ดวงอาทิตย์,ดวงอาทิตย์,1
+dataset_th,ดวงอาทิตย์,เมฆ,0
+dataset_th,ทะเลสาบ,ทะเลสาบ,1
+dataset_th,ชายหาด,ชายหาด,1
+dataset_th,กลุ่มคนเลี้ยงแกะ,กลุ่มคนเลี้ยงแกะ,1
+dataset_th,ฝูงแกะ,ฝูงแกะ,1
+dataset_th,นุ่น,นุ่น,1
+dataset_th,นุ่น,ขิง,0
+dataset_th,กระแตและน้ำฝน,กระแตและน้ำฝน,1
+dataset_th,กระแตและน้ำฝน,เสื้อคลุม,0
+dataset_th,นราวิช,นราวิช,1
+dataset_th,นราวิช,ชวัลวิทย์,0
+dataset_th,สนทรภู่,สนทรภู่,1
+dataset_th,สนทรภู่,อุดม,0
+dataset_th,ต้นไม้,ต้นไม้,1
+dataset_th,ขวาน,ขวาน,1
+dataset_th,กลุ่มจิ้งจอก,กลุ่มจิ้งจอก,1
+dataset_th,ไก่,ไก่,1
+dataset_th,กลุ่มจิ้งจอก,กลุ่มจิ้งจอก,1
+dataset_th,กลุ่มจิ้งจอก,ไก่,0
+dataset_th,ตา,ตา,1
+dataset_th,มือ,มือ,1
+dataset_th,ภัทรียา,ภัทรียา,1
+dataset_th,ภัทรา,ภัทรา,1
+dataset_th,ดิว,ดิว,1
+dataset_th,ดิว,โตโต้,0
+dataset_th,เครื่องล้างจาน,เครื่องล้างจาน,1
+dataset_th,เครื่องล้างจาน,ทีวี,0
+dataset_th,ดิว,ดิว,1
+dataset_th,ดิว,ปู่ทวดของฉัน,0
+dataset_th,ดิว,ดิว,1
+dataset_th,ดิว,พ่อของฉัน,0
+dataset_th,ยาคุตสค์,คัมชัตคา,0
+dataset_th,ยาคุตสค์,ยาคุตสค์,1
+dataset_th,ปลาสร้อย,ปลาสร้อย,1
+dataset_th,ปลาฉลาม,เป็ด,0
+dataset_th,นักโบราณคดี,นักโบราณคดี,1
+dataset_th,นักโบราณคดี,มนุษย์,0
+dataset_th,กลุ่มนักวิทยาศาสตร์,กลุ่มนักวิทยาศาสตร์,1
+dataset_th,กลุ่มนักวิทยาศาสตร์,ปลา,0
+dataset_th,นักแสดงดารา,นักข่าว,0
+dataset_th,นักแสดงดารา,นักแสดงดารา,1
+dataset_th,ทีมตำรวจ,ทีมตำรวจ,1
+dataset_th,สมาชิกแก๊ง,สมาชิกแก๊ง,1
+dataset_th,เค้ก,เค้ก,1
+dataset_th,เค้ก,ตู้เย็น,0
+dataset_th,ข้อเท้า,ข้อเท้า,1
+dataset_th,ไม้เท้า,ไม้เท้า,1
+dataset_th,ผู้สนับสนุน,ผู้สนับสนุน,1
+dataset_th,ผู้สนับสนุน,ผู้ต่อต้าน,0
+dataset_th,คุกกี้ข้าวโอ้ต,คุกกี้ข้าวโอ้ต,1
+dataset_th,คุกกี้ช็อกโกแลตชิพ,คุกกี้ช็อกโกแลตชิพ,1
+dataset_th,ที่นั่ง,จดหมายข่าว,0
+dataset_th,จดหมายข่าว,ที่นั่ง,0
+dataset_th,เข็มหมุด,เข็มหมุด,1
+dataset_th,เข็มหมุด,แครอท,0
+dataset_th,กาแฟ,ปากกา,0
+dataset_th,ปากกา,กาแฟ,0
+dataset_th,เจโรม,เจโรม,1
+dataset_th,เจโรม,ฌอน,0
+dataset_th,โต๊ะ,โต๊ะ,1
+dataset_th,โต๊ะ,ช่องประตู,0
+dataset_th,เสื้อคลุม,เสื้อกันหนาว,0
+dataset_th,เสื้อคลุม,เสื้อคลุม,1
+dataset_th,กวิน,ทนภพ,0
+dataset_th,ทนภพ,กวิน,0
+dataset_th,ทนภพ,ทนภพ,1
+dataset_th,กวิน,กวิน,1
+dataset_th,เซนอฟานีส,แซมกู๊ดแมน,0
+dataset_th,เซนอฟานีส,เซนอฟานีส,1
+dataset_th,แม่ของนิชา,นิชา,0
+dataset_th,แม่ของนิชา,แม่ของนิชา,1
+dataset_th,อารยา,อารยา,1
+dataset_th,อารยา,วีรดา,0
+dataset_th,เขตต์,เขตต์,1
+dataset_th,เขตต์,นักสืบ,0
+dataset_th,เดมี่,เดมี่,1
+dataset_th,เดมี่,เนเน่,0
+dataset_th,เฉลิม,เฉลิม,1
+dataset_th,เฉลิม,พนักงานเสิร์ฟ,0
+dataset_th,ไตรภพ,ไตรภพ,1
+dataset_th,ไตรภพ,ดิลก,0
+dataset_th,วิษุวัต,วิษุวัต,1
+dataset_th,วิษุวัต,สุรศักดิ์,0
+dataset_th,ดาริน,ณัชชา,0
+dataset_th,ดาริน,ดาริน,1
+dataset_th,แชมป์,แชมป์,1
+dataset_th,แชมป์,ธันวา,0
+dataset_th,อิกคิว,อิกคิว,1
+dataset_th,อิกคิว,ฟีฟ่า,0
+dataset_th,ตะวัน,ตะวัน,1
+dataset_th,ตะวัน,กันต์ธี,0
+dataset_th,เด็กผู้ชาย,บุรุษ,0
+dataset_th,เด็กผู้ชาย,เด็กผู้ชาย,1
+dataset_th,หญิงท่านนั้น,หญิงท่านนั้น,1
+dataset_th,หญิงท่านนั้น,เด็กสาว,0
+dataset_th,กฤษติ,กฤษติ,1
+dataset_th,ก๊อปแก๊ป,ก๊อปแก๊ป,1
+dataset_th,ธัญพร,อัญชลี,0
+dataset_th,ธัญพร,ธัญพร,1
+dataset_th,ต้นกล้า,มานะ,0
+dataset_th,ต้นกล้า,ต้นกล้า,1
+dataset_th,ไตเติ้ล,ไตเติ้ล,1
+dataset_th,ไตเติ้ล,ทศพล,0
+dataset_th,คุณพ่อ,คุณพ่อ,1
+dataset_th,คุณพ่อ,เด็กชาย,0
+dataset_th,หญิงท่านนั้น,หญิงท่านนั้น,1
+dataset_th,หญิงท่านนั้น,เด็กผู้หญิง,0
+dataset_th,ผู้ปกครองมัณฑนา,ผู้ปกครองมัณฑนา,1
+dataset_th,ผู้ปกครองมัณฑนา,มัณฑนาและธนศาล,0
+dataset_th,นางแพทย์บุษบา,นางแพทย์บุษบา,1
+dataset_th,นางแพทย์บุษบา,เกตุ,0
+dataset_th,นที,นที,1
+dataset_th,นที,ชลลธี,0
+dataset_th,สกาย,พีช,0
+dataset_th,พีช,สกาย,0
+dataset_th,พีช,พีช,1
+dataset_th,นานา,นานา,1
+dataset_th,นานา,บลู,0
+dataset_th,ลูกมะนาว,ลูกมะนาว,1
+dataset_th,ต้นมะนาว,ต้นมะนาว,1
+dataset_th,ไนท์,ไทม์,0
+dataset_th,ไนท์,ไนท์,1
+dataset_th,เศรษฐา,เศรษฐา,1
+dataset_th,ทักษิณ,ทักษิณ,1
+dataset_th,ตาล,นุ่น,0
+dataset_th,ตาล,ตาล,1
+dataset_th,ปีกผีเสื้อ,ปีกผีเสื้อ,1
+dataset_th,หนังสือเล่มหนา,โต๊ะ,0
+dataset_th,ครูฝึก,พริ้ม,0
+dataset_th,ครูฝึก,ครูฝึก,1
+dataset_th,พริ้ม,พริ้ม,1
+dataset_th,ครูฝึก,ครูฝึก,1
+dataset_th,แพร,พลอย,0
+dataset_th,พลอย,แพร,0
+dataset_th,เชกสเปียร์,เชกสเปียร์,1
+dataset_th,เชกสเปียร์,เกอเธ่,0
+dataset_th,เชกสเปียร์,ออวิด,0
+dataset_th,เชกสเปียร์,เชกสเปียร์,1
+dataset_th,สายป่าน,สายป่าน,1
+dataset_th,สายป่าน,ปุ้ย,0
+dataset_th,ดอน,ดอน,1
+dataset_th,ดอน,ศุภชัย,0
+dataset_th,กลุ่มกรรมการ,กลุ่มกรรมการ,1
+dataset_th,กลุ่มกรรมการ,แชทบอท,0
+dataset_th,Inwza55YO,GrWQWu8JyC,0
+dataset_th,Inwza55YO,Inwza55YO,1
+dataset_th_exact,สมาชิกสภาเทศบาล,สมาชิกสภาเทศบาล,1
+dataset_th_exact,สมาชิกสภาเทศบาล,ผู้ประท้วง,0
+dataset_th_exact,กระเป๋าเดินทาง,ถ้วยรางวัล,0
+dataset_th_exact,ถ้วยรางวัล,กระเป๋าเดินทาง,0
+dataset_th_exact,ซูซาน,โจน,0
+dataset_th_exact,ซูซาน,ซูซาน,1
+dataset_th_exact,พอล,พอล,1
+dataset_th_exact,พอล,จอร์จ,0
+dataset_th_exact,ทนายความ,ทนายความ,1
+dataset_th_exact,พยาน,พยาน,1
+dataset_th_exact,รถบรรทุกส่งของ,รถบรรทุกส่งของ,1
+dataset_th_exact,รถโรงเรียน,รถโรงเรียน,1
+dataset_th_exact,บิลล์,แฟรงค์,0
+dataset_th_exact,บิลล์,บิลล์,1
+dataset_th_exact,ชายคนนี้,ชายคนนี้,1
+dataset_th_exact,ชายคนนี้,ลูกชาย,0
+dataset_th_exact,ลูกบอลขนาดใหญ่,ลูกบอลขนาดใหญ่,1
+dataset_th_exact,ลูกบอลขนาดใหญ่,โต๊ะ,0
+dataset_th_exact,จอห์น,จอห์น,1
+dataset_th_exact,จอห์น,บิลลี่,0
+dataset_th_exact,ทอม,ทอม,1
+dataset_th_exact,ทอม,เรย์,0
+dataset_th_exact,ซู,ซู,1
+dataset_th_exact,ซู,แซลลี่,0
+dataset_th_exact,ประติมากรรม,ประติมากรรม,1
+dataset_th_exact,ประติมากรรม,ชั้นวาง,0
+dataset_th_exact,ภาพวาดของแซม,ภาพวาดของแซม,1
+dataset_th_exact,ภาพวาดของแซม,ภาพวาดของทีน่า,0
+dataset_th_exact,แอนนา,แอนนา,1
+dataset_th_exact,แอนนา,ลูซี่,0
+dataset_th_exact,เจ้าหน้าที่ดับเพลิง,เจ้าหน้าที่ดับเพลิง,1
+dataset_th_exact,เจ้าหน้าที่ดับเพลิง,ตำรวจ,0
+dataset_th_exact,ทอม,แฟรงค์,0
+dataset_th_exact,ทอม,ทอม,1
+dataset_th_exact,จิม,จิม,1
+dataset_th_exact,จิม,เควิน,0
+dataset_th_exact,กระสอบมันฝรั่ง,กระสอบมันฝรั่ง,1
+dataset_th_exact,กระสอบมันฝรั่ง,กระสอบแป้ง,0
+dataset_th_exact,พีท,พีท,1
+dataset_th_exact,มาร์ติน,มาร์ติน,1
+dataset_th_exact,นักเรียนรุ่นน้อง,นักเรียนรุ่นพี่,0
+dataset_th_exact,นักเรียนรุ่นน้อง,นักเรียนรุ่นน้อง,1
+dataset_th_exact,แก้ว,ขวด,0
+dataset_th_exact,แก้ว,แก้ว,1
+dataset_th_exact,ซูซาน,ซูซาน,1
+dataset_th_exact,ซูซาน,แอนน์,0
+dataset_th_exact,ซิด,ซิด,1
+dataset_th_exact,ซิด,มาร์ค,0
+dataset_th_exact,ซูซาน,ซูซาน,1
+dataset_th_exact,แอนน์,แอนน์,1
+dataset_th_exact,ลุงของโจ,โจ,0
+dataset_th_exact,ลุงของโจ,ลุงของโจ,1
+dataset_th_exact,ต้นโอ๊ก,ภาพวาด,0
+dataset_th_exact,ภาพวาด,ต้นโอ๊ก,0
+dataset_th_exact,ช่องว่าง,ช่องว่าง,1
+dataset_th_exact,ช่องว่าง,ผนัง,0
+dataset_th_exact,ท่อระบาย,ท่อระบาย,1
+dataset_th_exact,ท่อระบายน้ำ,เส้นผม,0
+dataset_th_exact,การประชุม,การประชุม,1
+dataset_th_exact,การประชุม,รถไฟ,0
+dataset_th_exact,เสา,เสา,1
+dataset_th_exact,เสา,เวที,0
+dataset_th_exact,เขา,เขา,1
+dataset_th_exact,เขา,รถไฟใต้ดิน,0
+dataset_th_exact,ฝน,คอนเสิร์ต,0
+dataset_th_exact,ฝน,ฝน,1
+dataset_th_exact,ผ้าขี้ริ้วเก่า,ผ้าขี้ริ้วเก่า,1
+dataset_th_exact,ผ้าขี้ริ้วเก่า,มีด,0
+dataset_th_exact,แอนน์,แอนน์,1
+dataset_th_exact,แอนน์,แมรี่,0
+dataset_th_exact,ขวดน้ำ,ขวดน้ำ,1
+dataset_th_exact,ขวดน้ำ,กระเป๋าเป้,0
+dataset_th_exact,หม้อ,หม้อ,1
+dataset_th_exact,หม้อ,ชั้นวาง,0
+dataset_th_exact,แผนที่,แผนที่,1
+dataset_th_exact,อาคาร,อาคาร,1
+dataset_th_exact,บ็อบ,บ็อบ,1
+dataset_th_exact,บ็อบ,ชาร์ลี,0
+dataset_th_exact,ชาร์ลี,บ็อบ,0
+dataset_th_exact,ชาร์ลี,ชาร์ลี,1
+dataset_th_exact,บ็อบ,บ็อบ,1
+dataset_th_exact,บ็อบ,อดัม,0
+dataset_th_exact,บ็อบ,อดัม,0
+dataset_th_exact,บ็อบ,บ็อบ,1
+dataset_th_exact,นักต้มตุ๋น,นักต้มตุ๋น,1
+dataset_th_exact,นักต้มตุ๋น,แซม,0
+dataset_th_exact,สุนัข,สุนัข,1
+dataset_th_exact,สุนัข,จุดหนึ่งใต้ต้นไม้,0
+dataset_th_exact,แมว,แมว,1
+dataset_th_exact,แมว,หนู,0
+dataset_th_exact,แอนน์,แอนน์,1
+dataset_th_exact,แอนน์,ลูกสาวของแอนน์,0
+dataset_th_exact,อลิซ,อลิซ,1
+dataset_th_exact,อลิซ,ลูกสาวของอลิซ,0
+dataset_th_exact,จิม,จิม,1
+dataset_th_exact,จิม,ชายในชุดทหาร,0
+dataset_th_exact,ปลา,ปลา,1
+dataset_th_exact,ปลา,ตัวหนอน,0
+dataset_th_exact,หมากฝรั่ง,กุญแจ,0
+dataset_th_exact,หมากฝรั่ง,หมากฝรั่ง,1
+dataset_th_exact,สุนัข,สุนัข,1
+dataset_th_exact,แมว,แมว,1
+dataset_th_exact,ต้นไม้,ต้นไม้,1
+dataset_th_exact,ต้นไม้,หลังคาบ้าน,0
+dataset_th_exact,ลูกค้า,ลูกค้า,1
+dataset_th_exact,เจ้าหน้าที่ธนาคาร,เจ้าหน้าที่ธนาคาร,1
+dataset_th_exact,จอห์น,จอห์น,1
+dataset_th_exact,จอห์น,ผู้ชาย,0
+dataset_th_exact,จอห์น,จอห์น,1
+dataset_th_exact,จอห์น,นักเล่นกล,0
+dataset_th_exact,บ็อบ,บ็อบ,1
+dataset_th_exact,บ็อบ,คาร์ล,0
+dataset_th_exact,แซมกับเอมี,แซมกับเอมี,1
+dataset_th_exact,พ่อแม่ของเอมี,พ่อแม่ของเอมี,1
+dataset_th_exact,มาร์ค,มาร์ค,1
+dataset_th_exact,มาร์ค,พีท,0
+dataset_th_exact,บ้านหลังเก่า,บ้านหลังเก่า,1
+dataset_th_exact,บ้านหลังใหม่,บ้านหลังใหม่,1
+dataset_th_exact,คน,คน,1
+dataset_th_exact,คน,หนังสือของพอล,0
+dataset_th_exact,เพลง,ขลุ่ย,0
+dataset_th_exact,เพลง,เพลง,1
+dataset_th_exact,เก้าอี้,เก้าอี้,1
+dataset_th_exact,เก้าอี้,เปียโน,0
+dataset_th_exact,หนังสือพิมพ์,หนังสือพิมพ์,1
+dataset_th_exact,หนังสือพิมพ์,กระเป๋าเป้,0
+dataset_th_exact,หนังสือ,หนังสือ,1
+dataset_th_exact,หนังสือ,บทความ,0
+dataset_th_exact,ปราสาททราย,ปราสาททราย,1
+dataset_th_exact,ปราสาททราย,ธง,0
+dataset_th_exact,เจน,เจน,1
+dataset_th_exact,เจน,ซูซาน,0
+dataset_th_exact,ซูซาน,เจน,0
+dataset_th_exact,ซูซาน,ซูซาน,1
+dataset_th_exact,แซม,แซม,1
+dataset_th_exact,แซม,อดัม,0
+dataset_th_exact,เส้นทาง,เส้นทาง,1
+dataset_th_exact,เส้นทาง,ทะเลสาบ,0
+dataset_th_exact,ดวงอาทิตย์,ดวงอาทิตย์,1
+dataset_th_exact,ดวงอาทิตย์,เมฆ,0
+dataset_th_exact,ทะเลสาบ,ทะเลสาบ,1
+dataset_th_exact,ทะเลสาบ,ชายหาด,0
+dataset_th_exact,คนเลี้ยงแกะ,คนเลี้ยงแกะ,1
+dataset_th_exact,คนเลี้ยงแกะ,แกะ,0
+dataset_th_exact,แมรี่,แมรี่,1
+dataset_th_exact,แมรี่,ลูกสาวของแมรี่,0
+dataset_th_exact,เฟร็ดและอลิซ,เฟร็ดและอลิซ,1
+dataset_th_exact,เฟร็ดและอลิซ,เสื้อโค้ต,0
+dataset_th_exact,ทอมสัน,ทอมสัน,1
+dataset_th_exact,คูเปอร์,คูเปอร์,1
+dataset_th_exact,อาร์โนลด์,แจ็กสัน,0
+dataset_th_exact,อาร์โนลด์,อาร์โนลด์,1
+dataset_th_exact,ต้นไม้,ต้นไม้,1
+dataset_th_exact,ต้นไม้,ขวาน,0
+dataset_th_exact,สุนัขจิ้งจอก,สุนัขจิ้งจอก,1
+dataset_th_exact,สุนัขจิ้งจอก,ไก่,0
+dataset_th_exact,สุนัขจิ้งจอก,สุนัขจิ้งจอก,1
+dataset_th_exact,สุนัขจิ้งจอก,ไก่,0
+dataset_th_exact,ตา,ตา,1
+dataset_th_exact,มือ,มือ,1
+dataset_th_exact,ทีน่า,เทอร์ปซิคอร์,0
+dataset_th_exact,ทีน่า,ทีน่า,1
+dataset_th_exact,เฟร็ด,เฟร็ด,1
+dataset_th_exact,จอร์จ,จอร์จ,1
+dataset_th_exact,เครื่องล้างจาน,เครื่องล้างจาน,1
+dataset_th_exact,เครื่องล้างจาน,ทีวี,0
+dataset_th_exact,เฟร็ด,เฟร็ด,1
+dataset_th_exact,เฟร็ด,ปู่ทวด,0
+dataset_th_exact,เฟร็ด,เฟร็ด,1
+dataset_th_exact,เฟร็ด,พ่อของฉัน,0
+dataset_th_exact,ยาคุตสค์,คัมชัตกา,0
+dataset_th_exact,ยาคุตสค์,ยาคุตสค์,1
+dataset_th_exact,ปลาน้อย,ปลาน้อย,1
+dataset_th_exact,ปลาน้อย,เป็ด,0
+dataset_th_exact,นักโบราณคดี,นักโบราณคดี,1
+dataset_th_exact,นักโบราณคดี,มนุษย์,0
+dataset_th_exact,ปลา,นักวิทยาศาสตร์,0
+dataset_th_exact,ปลา,ปลา,1
+dataset_th_exact,นักข่าว,นักข่าว,1
+dataset_th_exact,ดารา,ดารา,1
+dataset_th_exact,สมาชิกแก๊ง,ตำรวจ,0
+dataset_th_exact,สมาชิกแก๊ง,สมาชิกแก๊ง,1
+dataset_th_exact,เค้ก,เค้ก,1
+dataset_th_exact,เค้ก,ตู้เย็น,0
+dataset_th_exact,ข้อเท้า,ข้อเท้า,1
+dataset_th_exact,ข้อเท้า,ไม้ค้ำยัน,0
+dataset_th_exact,ผู้คัดค้าน,ผู้สนับสนุน,0
+dataset_th_exact,ผู้คัดค้าน,ผู้คัดค้าน,1
+dataset_th_exact,คุกกี้ช็อกโกแลตชิป,คุกกี้ข้าวโอ๊ต,0
+dataset_th_exact,คุกกี้ช็อกโกแลตชิป,คุกกี้ช็อกโกแลตชิป,1
+dataset_th_exact,สำเนาจดหมายข่าว,สำเนาจดหมายข่าว,1
+dataset_th_exact,สำเนาจดหมายข่าว,เก้าอี้,0
+dataset_th_exact,หมุด,หมุด,1
+dataset_th_exact,หมุด,แครอท,0
+dataset_th_exact,กาแฟ,ปากกา,0
+dataset_th_exact,ปากกา,กาแฟ,0
+dataset_th_exact,เฟร็ด,สตีฟ,0
+dataset_th_exact,สตีฟ,เฟร็ด,0
+dataset_th_exact,โต๊ะ,โต๊ะ,1
+dataset_th_exact,โต๊ะ,ประตู,0
+dataset_th_exact,เสื้อสเวตเตอร์,เสื้อสเวตเตอร์,1
+dataset_th_exact,เสื้อสเวตเตอร์,เสื้อแจ็คเก็ต,0
+dataset_th_exact,บิล,จอห์น,0
+dataset_th_exact,บิล,บิล,1
+dataset_th_exact,จอห์น,จอห์น,1
+dataset_th_exact,บิล,บิล,1
+dataset_th_exact,กู๊ดแมน,กู๊ดแมน,1
+dataset_th_exact,กู๊ดแมน,ซีโนฟาเนส,0
+dataset_th_exact,แม่ของเอ็มม่า,เอ็มม่า,0
+dataset_th_exact,แม่ของเอ็มม่า,แม่ของเอ็มม่า,1
+dataset_th_exact,ซูซาน,เจน,0
+dataset_th_exact,ซูซาน,ซูซาน,1
+dataset_th_exact,โจ,โจ,1
+dataset_th_exact,โจ,นักสืบ,0
+dataset_th_exact,เบธ,เบธ,1
+dataset_th_exact,เบธ,แซลลี่,0
+dataset_th_exact,จิม,จิม,1
+dataset_th_exact,จิม,บาร์เทนเดอร์,0
+dataset_th_exact,แดน,แดน,1
+dataset_th_exact,แดน,บิลล์,0
+dataset_th_exact,ทอม,ทอม,1
+dataset_th_exact,ทอม,ราล์ฟ,0
+dataset_th_exact,ซูซาน,แอนเดรีย,0
+dataset_th_exact,แอนเดรีย,ซูซาน,0
+dataset_th_exact,ราล์ฟ,ทอม,0
+dataset_th_exact,ทอม,ราล์ฟ,0
+dataset_th_exact,บิล,บิล,1
+dataset_th_exact,บิล,จอห์น,0
+dataset_th_exact,บิล,บิล,1
+dataset_th_exact,บิล,จอห์น,0
+dataset_th_exact,ชายคนนั้น,ชายคนนั้น,1
+dataset_th_exact,ชายคนนั้น,เด็กชาย,0
+dataset_th_exact,หญิงสาว,หญิงสาว,1
+dataset_th_exact,หญิงสาว,เด็กสาว,0
+dataset_th_exact,บิลลี่,บิลลี่,1
+dataset_th_exact,บิลลี่,โทบี้,0
+dataset_th_exact,ดอนน่า,ลิลลี่,0
+dataset_th_exact,ลิลลี่,ดอนน่า,0
+dataset_th_exact,ทิมมี่,ทอมมี่,0
+dataset_th_exact,ทิมมี่,ทิมมี่,1
+dataset_th_exact,ออลลี่,ออลลี่,1
+dataset_th_exact,ออลลี่,ทอมมี่,0
+dataset_th_exact,พ่อ,พ่อ,1
+dataset_th_exact,พ่อ,เด็กน้อย,0
+dataset_th_exact,ผู้หญิง,ผู้หญิง,1
+dataset_th_exact,ผู้หญิง,เด็กสาว,0
+dataset_th_exact,พ่อแม่ของแพม,พ่อแม่ของแพม,1
+dataset_th_exact,พ่อแม่ของแพม,แพมและพอล,0
+dataset_th_exact,ดร.อดัมส์,ดร.อดัมส์,1
+dataset_th_exact,เคท,เคท,1
+dataset_th_exact,แดน,แดน,1
+dataset_th_exact,บิล,บิล,1
+dataset_th_exact,จอร์จ,จอร์จ,1
+dataset_th_exact,จอร์จ,เอริค,0
+dataset_th_exact,เอริค,จอร์จ,0
+dataset_th_exact,เจน,เจน,1
+dataset_th_exact,เจน,โจน,0
+dataset_th_exact,ต้นมะนาว,มะนาว,0
+dataset_th_exact,ต้นมะนาว,ต้นมะนาว,1
+dataset_th_exact,เจมส์,เจมส์,1
+dataset_th_exact,เจมส์,โรเบิร์ต,0
+dataset_th_exact,ชาตอฟ,คิริลอฟ,0
+dataset_th_exact,ชาตอฟ,ชาตอฟ,1
+dataset_th_exact,เจนี่,เอ็มม่า,0
+dataset_th_exact,เจนี่,เจนี่,1
+dataset_th_exact,ปีกผีเสื้อ,ปีกผีเสื้อ,1
+dataset_th_exact,หนังสือหนักๆ,โต๊ะ,0
+dataset_th_exact,มาดอนน่า,มาดอนน่า,1
+dataset_th_exact,มาดอนน่า,เทรนเนอร์,0
+dataset_th_exact,มาดอนน่า,มาดอนน่า,1
+dataset_th_exact,มาดอนน่า,เทรนเนอร์,0
+dataset_th_exact,แคโรล,แคโรล,1
+dataset_th_exact,แคโรล,เรเบคก้า,0
+dataset_th_exact,เชกสเปียร์,เชกสเปียร์,1
+dataset_th_exact,เชกสเปียร์,เกอเธ่,0
+dataset_th_exact,เชกสเปียร์,โอวิด,0
+dataset_th_exact,เชกสเปียร์,เชกสเปียร์,1
+dataset_th_exact,เจด,อลิซ,0
+dataset_th_exact,เจด,เจด,1
+dataset_th_exact,อีธาน,อีธาน,1
+dataset_th_exact,อีธาน,ลุค,0
+dataset_th_exact,กรรมการ,กรรมการ,1
+dataset_th_exact,กรรมการ,แชทบอต,0
+dataset_th_exact,GrWQWu8JyC,GrWQWu8JyC,1
+dataset_th_exact,willow-towered Canopy Huntertropic wrestles,willow-towered Canopy Huntertropic wrestles,1

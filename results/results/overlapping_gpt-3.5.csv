@@ -1,0 +1,47 @@
+Dataset_en,Model Answer_en,Gold Label_en,Correct_en,Gold Label_th,Model Answer_th,Correct_th
+dataset_en,the trophy,the suitcase,0,กระเป๋าเดินทาง,ถ้วยรางวัล,0
+dataset_en,Susan,Joan,0,ชูใจ,มานี,0
+dataset_en,George,Paul,0,มานะ,ปิติ,0
+dataset_en,The large ball,The table,0,โต๊ะ,ลูกบอลอันใหญ่,0
+dataset_en,Billy,John,0,สมเกียรติ,สมจิต,0
+dataset_en,Tom,Ray,0,สมบัตร,สมบูรณ์,0
+dataset_en,The sculpture,The shelf,0,ชั้นวาง,หุ่นตัวนั้น,0
+dataset_en,The firemen,The police,0,ตำรวจ,นักดับเพลิง,0
+dataset_en,Tom,Frank,0,นนท์,ภัทร,0
+dataset_en,The sack of potatoes,The bag of flour,0,ถุงแป้ง,กระสอบมันฝรั่ง,0
+dataset_en,Susan,Ann,0,พู่กัน,จันทร์เจ้า,0
+dataset_en,The building,The map,0,แผนที่,อาคาร,0
+dataset_en,Bob,Charlie,0,มานะ,ปิติ,0
+dataset_en,Adam,Bob,0,สมศักดิ์,สมปอง,0
+dataset_en,Bob,Adam,0,มานะ,ปิติ,0
+dataset_en,The dog,The spot under the tree,0,ที่ใต้ต้นไม้,สุนัข,0
+dataset_en,Anne's daughter,Anne,0,แก้ว,บุตรสาวของแก้ว,0
+dataset_en,Alice's daughter,Alice,0,แพร,ลูกสาวของแพร,0
+dataset_en,The key,The chewing gum,0,หมากฝรั่ง,กุญแจ,0
+dataset_en,The customer,The teller,0,พนักงาน,ลูกค้า,0
+dataset_en,The man,John,0,สมพงษ์,ชายท่านหนึ่ง,0
+dataset_en,The juggler,John,0,ธนากร,ชายผู้เล่นจักกลิ้ง,0
+dataset_en,Paul's books,People,0,คน,งานประพันธ์ของเจนภพ,0
+dataset_en,The newspaper,The backpack,0,กระเป๋าเป้,หนังสือพิมพ์,0
+dataset_en,The sand castle,The flag,0,ธง,ปราสาททราย,0
+dataset_en,Susan,Jane,0,อารยา,วีรดา,0
+dataset_en,Susan,Jane,0,อารยา,วีรดา,0
+dataset_en,Yakutsk,Kamchatka,0,คัมชัตคา,ยาคุตสค์,0
+dataset_en,The cake,The refrigerator,0,ตู้เย็น,เค้ก,0
+dataset_en,The opponents,The sponsors,0,ผู้สนับสนุน,ผู้ต่อต้าน,0
+dataset_en,copies of the newsletter,chairs,0,ที่นั่ง,จดหมายข่าว,0
+dataset_en,The pen,The coffee,0,กาแฟ,ปากกา,0
+dataset_en,Fred,Steve,0,เจโรม,ฌอน,0
+dataset_en,John,Bill,0,กวิน,ทนภพ,0
+dataset_en,Xenophanes,Goodman,0,แซมกู๊ดแมน,เซนอฟานีส,0
+dataset_en,Susan,Jane,0,อารยา,วีรดา,0
+dataset_en,Jim,The barman,0,พนักงานเสิร์ฟ,เฉลิม,0
+dataset_en,Tom,Ralph,0,สุรศักดิ์,วิษุวัต,0
+dataset_en,Andrea,Susan,0,ดาริน,ณัชชา,0
+dataset_en,Tom,Ralph,0,ธันวา,แชมป์,0
+dataset_en,Pam's parents,Pam and Paul,0,มัณฑนาและธนศาล,ผู้ปกครองมัณฑนา,0
+dataset_en,Jane,Joan,0,บลู,นานา,0
+dataset_en,Shatov,Kirilov,0,เศรษฐา,ทักษิณ,0
+dataset_en,The heavy book,The table,0,โต๊ะ,หนังสือเล่มหนา,0
+dataset_en,The trainer,Madonna,0,พริ้ม,ครูฝึก,0
+dataset_en,Shakespeare,Ovid,0,ออวิด,เชกสเปียร์,0

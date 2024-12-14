@@ -1,0 +1,70 @@
+Dataset_en,Model Answer_en,Gold Label_en,Correct_en,Gold Label_th,Model Answer_th,Correct_th
+dataset_en,The city councilmen,The demonstrators,0,ผู้ชุมนุม,สมาชิกสภาเทศบาลเมือง,0
+dataset_en,George,Paul,0,มานะ,ปิติ,0
+dataset_en,the witness,the lawyer,0,ทนายความ,พยาน,0
+dataset_en,Bill,Frank,0,สมชาย,สมศักดิ์,0
+dataset_en,Billy,John,0,สมเกียรติ,สมจิต,0
+dataset_en,Sue,Sally,0,ต้องตา,ตะวัน,0
+dataset_en,The sculpture,The shelf,0,ชั้นวาง,หุ่นตัวนั้น,0
+dataset_en,The police,The firemen,0,นักดับเพลิง,ตำรวจ,0
+dataset_en,The firemen,The police,0,ตำรวจ,นักดับเพลิง,0
+dataset_en,Tom,Frank,0,นนท์,ภัทร,0
+dataset_en,The sack of potatoes,The bag of flour,0,ถุงแป้ง,กระสอบมันฝรั่ง,0
+dataset_en,the cup,the bottle,0,ขวด,แก้ว,0
+dataset_en,Joe's uncle,Joe,0,ตะวัน,ลุงของตะวัน,0
+dataset_en,The oak tree,The painting,0,ภาพวาด,ต้นโอ๊ค,0
+dataset_en,The pillar,The stage,0,เวที,เสา,0
+dataset_en,The subway,The announcement,0,เสียงตามสาย,รถไฟใต้ดิน,0
+dataset_en,The rain,The concert,0,คอนเสิร์ต,ฝน,0
+dataset_en,The water bottle,The backpack,0,กระเป๋า,ขวดน้ำ,0
+dataset_en,The building,The map,0,แผนที่,อาคาร,0
+dataset_en,Charlie,Bob,0,ปิติ,มานะ,0
+dataset_en,Adam,Bob,0,สมศักดิ์,สมปอง,0
+dataset_en,Bob,Adam,0,มานะ,ปิติ,0
+dataset_en,The con artist,Sam,0,สมรัก,นักต้มตุ๋น,0
+dataset_en,The cat,The mouse,0,หนู,แมว,0
+dataset_en,Anne's daughter,Anne,0,แก้ว,บุตรสาวของแก้ว,0
+dataset_en,Alice's daughter,Alice,0,แพร,ลูกสาวของแพร,0
+dataset_en,the guy in uniform,Jim,0,นพ,ชายในชุดทหาร,0
+dataset_en,The fish,The worm,0,หนอน,ปลา,0
+dataset_en,The juggler,John,0,ธนากร,ชายผู้เล่นจักกลิ้ง,0
+dataset_en,Carl,Bob,0,ภานุ,ภูผา,0
+dataset_en,Amy's parents,Sam and Amy,0,เอ็มและยุ้ย,ผู้ปกครองของยุ้ย,0
+dataset_en,The newspaper,The backpack,0,กระเป๋าเป้,หนังสือพิมพ์,0
+dataset_en,The book,The article,0,บทความ,หนังสือ,0
+dataset_en,Susan,Jane,0,อารยา,วีรดา,0
+dataset_en,The sun,The cloud,0,เมฆ,ดวงอาทิตย์,0
+dataset_en,Fred and Alice,coats,0,เสื้อคลุม,กระแตและน้ำฝน,0
+dataset_en,Arnold,Jackson,0,สนทรภู่,อุดม,0
+dataset_en,Tina,Terpsichore,0,ภัทรียา,ภัทรา,0
+dataset_en,My father,Fred,0,ดิว,พ่อของฉัน,0
+dataset_en,Yakutsk,Kamchatka,0,คัมชัตคา,ยาคุตสค์,0
+dataset_en,Prehistoric humans,Archaeologists,0,นักโบราณคดี,มนุษย์,0
+dataset_en,The stars,The journalists,0,นักข่าว,นักแสดงดารา,0
+dataset_en,The gang members,The police,0,ทีมตำรวจ,สมาชิกแก๊ง,0
+dataset_en,The opponents,The sponsors,0,ผู้สนับสนุน,ผู้ต่อต้าน,0
+dataset_en,The pen,The coffee,0,กาแฟ,ปากกา,0
+dataset_en,Steve,Fred,0,ฌอน,เจโรม,0
+dataset_en,Xenophanes,Goodman,0,แซมกู๊ดแมน,เซนอฟานีส,0
+dataset_en,Susan,Jane,0,อารยา,วีรดา,0
+dataset_en,the detective,Joe,0,เขตต์,นักสืบ,0
+dataset_en,Jim,The barman,0,พนักงานเสิร์ฟ,เฉลิม,0
+dataset_en,Bill,Dan,0,ไตรภพ,ดิลก,0
+dataset_en,John,Bill,0,อิกคิว,ฟีฟ่า,0
+dataset_en,John,Bill,0,ตะวัน,กันต์ธี,0
+dataset_en,The man,The boy,0,เด็กผู้ชาย,บุรุษ,0
+dataset_en,Donna,Lily,0,อัญชลี,ธัญพร,0
+dataset_en,Timmy,Tommy,0,มานะ,ต้นกล้า,0
+dataset_en,Eric,George,0,พีช,สกาย,0
+dataset_en,Eric,George,0,พีช,สกาย,0
+dataset_en,lemon trees,lemons,0,ลูกมะนาว,ต้นมะนาว,0
+dataset_en,Robert,James,0,ไทม์,ไนท์,0
+dataset_en,Shatov,Kirilov,0,เศรษฐา,ทักษิณ,0
+dataset_en,Madonna,The trainer,0,ครูฝึก,พริ้ม,0
+dataset_en,Madonna,The trainer,0,ครูฝึก,แฟนหนุ่ม,0
+dataset_en,Rebecca,Carol,0,พลอย,แพร,0
+dataset_en,Goethe,Shakespeare,0,เชกสเปียร์,เกอเธ่,0
+dataset_en,Jade,Alice,0,สายป่าน,ปุ้ย,0
+dataset_en,Luke,Ethan,0,ดอน,ศุภชัย,0
+dataset_en,the chatbots,the judges,0,กลุ่มกรรมการ,แชทบอท,0
+dataset_en,willow-towered Canopy Huntertropic wrestles,GrWQWu8JyC,0,GrWQWu8JyC,Inwza55YO,0

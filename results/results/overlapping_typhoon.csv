@@ -1,0 +1,72 @@
+Dataset_en,Model Answer_en,Gold Label_en,Correct_en,Gold Label_th,Model Answer_th,Correct_th
+dataset_en,The city councilmen,The demonstrators,0,ผู้ชุมนุม,สมาชิกสภาเทศบาลเมือง,0
+dataset_en,The man,The son,0,ลูกชาย,ชายคนนั้น,0
+dataset_en,Sue,Sally,0,ต้องตา,ตะวัน,0
+dataset_en,The sculpture,The shelf,0,ชั้นวาง,หุ่นตัวนั้น,0
+dataset_en,Anna,Lucy,0,น้ำค้าง,น้ำฝน,0
+dataset_en,The firemen,The police,0,ตำรวจ,นักดับเพลิง,0
+dataset_en,Tom,Frank,0,นนท์,ภัทร,0
+dataset_en,The sack of potatoes,The bag of flour,0,ถุงแป้ง,กระสอบมันฝรั่ง,0
+dataset_en,The older students,The younger students,0,เด็กที่เด็กกว่า,นักเรียนที่โตกว่า,0
+dataset_en,Susan,Ann,0,พู่กัน,จันทร์เจ้า,0
+dataset_en,Sid,Mark,0,ปิติ,มานะ,0
+dataset_en,Susan,Ann,0,สมใจ,สมศรี,0
+dataset_en,The pillar,The stage,0,เวที,เสา,0
+dataset_en,The rain,The concert,0,คอนเสิร์ต,ฝน,0
+dataset_en,Ann,Mary,0,กระถิน,มะลิ,0
+dataset_en,The water bottle,The backpack,0,กระเป๋า,ขวดน้ำ,0
+dataset_en,The pot,The shelf,0,ชั้นวาง,หม้อ,0
+dataset_en,The building,The map,0,แผนที่,อาคาร,0
+dataset_en,The con artist,Sam,0,สมรัก,นักต้มตุ๋น,0
+dataset_en,The dog,The spot under the tree,0,ที่ใต้ต้นไม้,สุนัข,0
+dataset_en,The cat,The mouse,0,หนู,แมว,0
+dataset_en,Alice,Alice's daughter,0,ลูกสาวของแพร,แพร,0
+dataset_en,Jim,the guy in uniform,0,ชายในชุดทหาร,นพ,0
+dataset_en,The fish,The worm,0,หนอน,ปลา,0
+dataset_en,The tree,The roof,0,หลังคา,ต้นไม้,0
+dataset_en,The teller,The customer,0,ลูกค้า,พนักงาน,0
+dataset_en,Bob,Carl,0,ภูผา,ภานุ,0
+dataset_en,Amy's parents,Sam and Amy,0,เอ็มและยุ้ย,ผู้ปกครองของยุ้ย,0
+dataset_en,Pete,Mark,0,โอ๋น,โดม,0
+dataset_en,The newspaper,The backpack,0,กระเป๋าเป้,หนังสือพิมพ์,0
+dataset_en,The book,The article,0,บทความ,หนังสือ,0
+dataset_en,Sam,Adam,0,กชกร,เฉลิม,0
+dataset_en,The sun,The cloud,0,เมฆ,ดวงอาทิตย์,0
+dataset_en,Mary,Mary's daughter,0,ขิง,นุ่น,0
+dataset_en,Fred and Alice,coats,0,เสื้อคลุม,กระแตและน้ำฝน,0
+dataset_en,The foxes,The chickens,0,ไก่,กลุ่มจิ้งจอก,0
+dataset_en,The dishwasher,The TV,0,ทีวี,เครื่องล้างจาน,0
+dataset_en,Fred,My great-grandfather,0,ปู่ทวดของฉัน,ดิว,0
+dataset_en,Fred,My father,0,พ่อของฉัน,ดิว,0
+dataset_en,Yakutsk,Kamchatka,0,คัมชัตคา,ยาคุตสค์,0
+dataset_en,Archaeologists,Prehistoric humans,0,มนุษย์,นักโบราณคดี,0
+dataset_en,The stars,The journalists,0,นักข่าว,นักแสดงดารา,0
+dataset_en,The cake,The refrigerator,0,ตู้เย็น,เค้ก,0
+dataset_en,The sponsors,The opponents,0,ผู้ต่อต้าน,ผู้สนับสนุน,0
+dataset_en,chairs,copies of the newsletter,0,จดหมายข่าว,ที่นั่ง,0
+dataset_en,The pen,The coffee,0,กาแฟ,ปากกา,0
+dataset_en,The table,The doorway,0,ช่องประตู,โต๊ะ,0
+dataset_en,Bill,John,0,ทนภพ,กวิน,0
+dataset_en,John,Bill,0,กวิน,ทนภพ,0
+dataset_en,Xenophanes,Goodman,0,แซมกู๊ดแมน,เซนอฟานีส,0
+dataset_en,Emma's mother,Emma,0,นิชา,แม่ของนิชา,0
+dataset_en,Beth,Sally,0,เนเน่,เดมี่,0
+dataset_en,Jim,The barman,0,พนักงานเสิร์ฟ,เฉลิม,0
+dataset_en,Tom,Ralph,0,สุรศักดิ์,วิษุวัต,0
+dataset_en,Tom,Ralph,0,ธันวา,แชมป์,0
+dataset_en,The woman,The girl,0,เด็กสาว,หญิงท่านนั้น,0
+dataset_en,Donna,Lily,0,อัญชลี,ธัญพร,0
+dataset_en,Ollie,Tommy,0,ทศพล,ไตเติ้ล,0
+dataset_en,The father,The boy,0,เด็กชาย,คุณพ่อ,0
+dataset_en,The woman,The girl,0,เด็กผู้หญิง,หญิงท่านนั้น,0
+dataset_en,Pam's parents,Pam and Paul,0,มัณฑนาและธนศาล,ผู้ปกครองมัณฑนา,0
+dataset_en,Jane,Joan,0,บลู,นานา,0
+dataset_en,Robert,James,0,ไทม์,ไนท์,0
+dataset_en,The heavy book,The table,0,โต๊ะ,หนังสือเล่มหนา,0
+dataset_en,The trainer,Madonna,0,พริ้ม,ครูฝึก,0
+dataset_en,Rebecca,Carol,0,พลอย,แพร,0
+dataset_en,Shakespeare,Goethe,0,เกอเธ่,เชกสเปียร์,0
+dataset_en,Shakespeare,Ovid,0,ออวิด,เชกสเปียร์,0
+dataset_en,Alice,Jade,0,ปุ้ย,สายป่าน,0
+dataset_en,Ethan,Luke,0,ศุภชัย,ดอน,0
+dataset_en,the judges,the chatbots,0,แชทบอท,กลุ่มกรรมการ,0
